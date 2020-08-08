@@ -1,1 +1,170 @@
-wopwop basic app
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.updator1.ultimate-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(SUN/GTM) Torrent  Updator 1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.updator2.my-ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(SUN/GTM) Torrent  Updator 2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.updator3.ultimate-vpn-glenn.xyz",
+    "Flag" : "sg",
+    "Name" : "(SUN/GTM) Torrent  Updator 3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.updator4.glenn-ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(SUN/GTM) Torrent  Updator 4"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.updator5.yumizhien-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(SUN/GTM) Torrent  Updator 5"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.updator1.ultimate-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(Giga-Stories) Torrent Updator"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "ticketbox.iflix.com.updator1.ultimate-vpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(Giga-Video)  Torrent  Updator"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "1234",
+    "Flag" : "ph",
+    "Name" : "Connect To Premium \"(SUN/GTM) Torrent  Updator 1\" & Update First!"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "1234",
+    "Flag" : "ph",
+    "Name" : "Connect To Premium \"(SUN/GTM) Torrent  Updator 1\" & Update First!"
+  } ],
+  "Payloads" : [ {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "1gQICEvx3VOFYGd6uvIFCHf5VtqaRCx7ZbEWKMUnKP4CpDTBvh3GsM1Q7OFz95xNCIwxJKvwyj7/79lduBiFpkWxfsl+m/5Si4++4N5nRYk=",
+    "Name" : "\uD83D\uDCA5[Direct] ALL NET (NoProxy) TCP",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nConvert Facebook Promo\nTo All Website Access!✅\n\uD83D\uDCA5Use UltimateVPN \"APN\"\uD83D\uDCA5\nAirplane Mode 30seconds\nEvery 500mb And Change APN\n\nTu50/Tu60/Tu150/Tu200 (2gb/day)\nCTC30/CTC50/CTC150 (3gb/day)\nSUN FixLoadPlan300 (5gb/day)\n\nWag Mag Download Mabigat na File\nWag Mag HD Stream ng Matagal\nWag Po Abusuhin Paggamit ng Data\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "y+N420tc/5asD4T4NsS0338gaKUorFPBDM+J+b98/3vDSTqw5Lh/ElOwkFLE1mc71xCmmfB7NJubSyUE6l3b0UfClmQlxvFUXP5uTthyyVk=",
+    "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 1.1",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nConvert Facebook Promo\nTo All Website Access!✅\n\uD83D\uDCA5Use UltimateVPN \"APN\"\uD83D\uDCA5\nAirplane Mode 30seconds\nEvery 500mb And Change APN\n\nTu50/Tu60/Tu150/Tu200 (2gb/day)\nCTC30/CTC50/CTC150 (3gb/day)\nSUN FixLoadPlan300 (5gb/day)\n\nWag Mag Download Mabigat na File\nWag Mag HD Stream ng Matagal\nWag Po Abusuhin Paggamit ng Data\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "xu3QPwwwqw2ZHt3HbRXA4hwFhhpnZy06F9RuK03JLRoX0k8FYX3EVCCkHfLiwqQCcQ18mG1p6BISbjhPm5nUzf72kB+iwx131u/Ds3cWbG8=",
+    "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 1.2",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nConvert Facebook Promo\nTo All Website Access!✅\n\uD83D\uDCA5Use UltimateVPN \"APN\"\uD83D\uDCA5\nAirplane Mode 30seconds\nEvery 500mb And Change APN\n\nTu50/Tu60/Tu150/Tu200 (2gb/day)\nCTC30/CTC50/CTC150 (3gb/day)\nSUN FixLoadPlan300 (5gb/day)\n\nWag Mag Download Mabigat na File\nWag Mag HD Stream ng Matagal\nWag Po Abusuhin Paggamit ng Data\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "DozC67QMm9eguC4qOtca3Bdi/kwKgEaRB0+WvfHQ2W1bsgSUGyqc/IXb8AqVW1f+lS0vHWRXsp0mwplErPMC6A==",
+    "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)1",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nFor Globe And TM User Only\n\uD83D\uDC49ByPass GoWatch✅\n\uD83D\uDC49ByPass SNS/WNP✅\nTo All Website Access!✅\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\uD83D\uDC47\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "rofB2e44ezNENdd5d781xQF/3DZtpZg+R9/AvW+x/o5sr46dHYvoQfx2uIUsH3zYHh4d+Fuqo/bfYmePAGjFjA==",
+    "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)2",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nFor Globe And TM User Only\n\uD83D\uDC49ByPass GoWatch✅\n\uD83D\uDC49ByPass SNS/WNP✅\nTo All Website Access!✅\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\uD83D\uDC47\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "rjMhY8NAVQpYDeEUE86m3jqYENp8eFBWq8GrlGLXqrfBarjl4HHxdNsVGWbxnOYP",
+    "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)3",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Claim Free Youtube Daily\nFor SUN/SMART/TNT\n1Gb internet Access Daily!\n\n(UltimateVPN Family) Enjoy!\uD83D\uDE07",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "LE91NzsCeiShKNtdahQ9jqm7AKnqd/t/8QVbzsj1ODOGsrE/e+lC1emZ7ecFmQMG",
+    "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)4",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "Claim Free Youtube Daily\nFor SUN/SMART/TNT\n1Gb internet Access Daily!\n\n(UltimateVPN Family) Enjoy!\uD83D\uDE07",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "bvmyNu/W9iw0RIMOA4nQGZI1mpZYP5YikKlx7i+vxlXj6hRN8MgdLRp0+Z0aCeqmKgFlXOzssfEJdKB54U+t9w==",
+    "Name" : "\uD83C\uDF40 [inject] Smart & Tnt Giga-Stories",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nFor SMART & TNT User Only\n\uD83D\uDC49Register GigaStories Promo✅\n\uD83D\uDC49ByPass GigaStories Promo✅\nTo All Website Access!✅\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\uD83D\uDC47\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 3,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "CMjTMrBZujHHrPOEtU77r9XT8q+bzRiyebWNLrOvdx75KBD0gqyIAkfSO3hwMDLKidDsoNNUforxoI/WvCBZyMt/b7eXuTm46YXIp0BmDIQ=",
+    "Name" : "\uD83C\uDF40 [inject] SunSmartTnt Giga-Video",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nFor Sun/Smart/Tnt User Only\n\uD83D\uDC49Register GigaVideo Promo✅\n\uD83D\uDC49ByPass GigaVideo Promo✅\nTo All Website Access!✅\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\uD83D\uDC47\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
+    "UseDefaultProxy" : true
+  } ],
+  "GuiCategories" : true,
+  "GuiFlags" : true,
+  "Changelogs" : "<strong>WELCOME to UltimateVPN Family<br>\uD83D\uDE07Thank You For Choosing Us !\uD83D\uDC96<br><br>\uD83D\uDE07Your APP is NOW UPDATED !\uD83D\uDC96<br><strong>===========================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring Admin Unlimited Credits.<br>Click My Messenger Link Below\uD83D\uDC47<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDC47\uD83D\uDC47\uD83D\uDC47You May Call/Text \uD83D\uDC47\uD83D\uDC47\uD83D\uDC47<br>\uD83D\uDD1109773270471/09329461032\uD83D\uDD11<br>===========================<br>-----------------------------------------<br>\uD83D\uDC47UltimateVPN ADMIN\uD83D\uDC47<br>\uD83D\uDC8E\uD83D\uDC49Admin Ayumi<br>\uD83D\uDC8E\uD83D\uDC49Admin Zhienchi<br>\uD83D\uDC8E\uD83D\uDC49Admin Brokoy<br>-----------------------------------------<br><strong>\uD83D\uDC96\uD83D\uDC98Team UltimateVPN™\uD83D\uDC98\uD83D\uDC96<br>\uD83D\uDE07Big Thanks To My Developer<br>\uD83D\uDE07Big Thanks To Sir w0pw0p </strong>",
+  "Version" : 2.79
+}
