@@ -1,35 +1,200 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.updator.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(SUN/GTM) Torrent  Updator"
+    "DomainOrIP" : "1.2.3.4",
+    "Flag" : "kz",
+    "Name" : "\uD83D\uDC47SUN & GTM Server\uD83D\uDC47"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.updator.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-sgbu.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(Giga-Stories) Torrent Updator"
+    "Name" : "[Prem] Browsing SG-1"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "ticketbox.iflix.com.updator.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-sgb2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(Giga-Video)  Torrent  Updator"
+    "Name" : "[Prem] Browsing SG-2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-sgb3.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Prem] Browsing SG-3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-usb1.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Prem] Browsing US-1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-usb2.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Prem] Browsing US-2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-usb3.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Prem] Browsing US-3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "1.2.3.4",
+    "Flag" : "kz",
+    "Name" : "\uD83D\uDC47GigaStories Server\uD83D\uDC47"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.pre-sgbu.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Prem] Browsing SG-1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.pre-sgb2.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Prem] Browsing SG-2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.pre-sgb3.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Prem] Browsing SG-3"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.pre-usb1.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Prem] Browsing US-1"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.pre-usb2.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Prem] Browsing US-2"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "api-stream.twitter.com.pre-usb1.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Prem] Browsing US-3"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "1234",
-    "Flag" : "ph",
-    "Name" : "Connect To Premium \"(SUN/GTM) Torrent  Updator 1\" & Update First!"
+    "DomainOrIP" : "1.2.3.4",
+    "Flag" : "kz",
+    "Name" : "\uD83D\uDC47SUN & GTM Server\uD83D\uDC47"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-tornet.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[ViP] Torrent & Netflix"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-sgb1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[ViP] Browsing-SGDO"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-jpb1.ultimatevpn.xyz",
+    "Flag" : "jp",
+    "Name" : "[ViP] Browsing-Japan"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-sgg1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[ViP] GAMING - SGDO"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-jpg1.ultimatevpn.xyz",
+    "Flag" : "jp",
+    "Name" : "[ViP] GAMING -Japan"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "1.2.3.4",
+    "Flag" : "kz",
+    "Name" : "\uD83D\uDC47GigaStories Server\uD83D\uDC47"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vip-tornet.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[ViP] Torrent & Netflix"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vip-sgb1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[ViP] Browsing-SGDO"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vip-jpb1.ultimatevpn.xyz",
+    "Flag" : "jp",
+    "Name" : "[ViP] Browsing-Japan"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vip-sgg1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[ViP] GAMING - SGDO"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "api-stream.twitter.com.vip-jpg1.ultimatevpn.xyz",
+    "Flag" : "jp",
+    "Name" : "[ViP] GAMING -Japan"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "1234",
+    "DomainOrIP" : "1.2.3.4",
+    "Flag" : "kz",
+    "Name" : "\uD83D\uDC47SUN & GTM Server\uD83D\uDC47"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-tornet.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Priv] Torrent & Netflix"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-sgb1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Priv] Browsing-SGDO"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-phb1.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "Connect To Premium \"(SUN/GTM) Torrent  Updator 1\" & Update First!"
+    "Name" : "[Priv] Browsing-MNL2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-sgg1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Priv] GAMING - SGDO"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-phg1.ultimatevpn.xyz",
+    "Flag" : "ph",
+    "Name" : "[Priv] GAMING - MNL2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "1.2.3.4",
+    "Flag" : "kz",
+    "Name" : "\uD83D\uDC47GigaStories Server\uD83D\uDC47"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "api-stream.twitter.com.pri-tornet.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "[Priv] Torrent & Netflix"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "api-stream.twitter.com.pri-sgb1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Priv] Browsing-SGDO"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "api-stream.twitter.com.pri-phb1.ultimatevpn.xyz",
+    "Flag" : "ph",
+    "Name" : "[Priv] Browsing-MNL2"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "api-stream.twitter.com.pri-sgg1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Priv] GAMING - SGDO"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "api-stream.twitter.com.pri-phg1.ultimatevpn.xyz",
+    "Flag" : "ph",
+    "Name" : "[Priv] GAMING - MNL2"
   } ],
   "Payloads" : [ {
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "tYk+FEU/GhRXFSUHzSxO6uPQ63Gs5Rpq4aBV48zWrKg=",
+    "Host" : "CgFOh/PNgFF2UQ67DWzTbRwmeTCJ23FcPbdQVeIn7RI=",
     "Name" : "\uD83D\uDCA5[Direct] ALL NET (NoProxy) TCP",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -39,10 +204,10 @@
     "Text" : "\uD83D\uDE00Welcome To UltimateVPN\uD83D\uDE00\n\uD83D\uDC96Thanks For Choosing Us\uD83D\uDC96\n\nConvert Facebook Promo\nTo All Website Access!✅\n\uD83D\uDCA5Use UltimateVPN \"APN\"\uD83D\uDCA5\nAirplane Mode 30seconds\nEvery 500mb And Change APN\n\nTu50/Tu60/Tu150/Tu200 (2gb/day)\nCTC30/CTC50/CTC150 (3gb/day)\nSUN FixLoadPlan300 (5gb/day)\n\nWag Mag Download Mabigat na File\nWag Mag HD Stream ng Matagal\nWag Po Abusuhin Paggamit ng Data\n\n\uD83D\uDC49Note: \uD83D\uDC47VPN Server Speed\nDepende Signal Sa Area mo!\n\n\uD83D\uDE07Enjoy Browsing\uD83D\uDE07\n\uD83D\uDC8EUltimateVPN Family\uD83D\uDC8E",
     "UseDefaultProxy" : true
   }, {
-    "Format" : 3,
+    "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "2est3sBT0HtyayYoOX2u6z/nPZp11g8f/lVo+pPSvY48yFUnGGbLh2QnxLjzMxabSwXogETJvx+cVfqN8u88pDiUEx4c+Ino10ZgJnpmS/w=",
+    "Host" : "Br9W+cn2C/ombpCvuVAbDBYgZJITOglME1sy5dPkEKcO7N+ymdrG4+A7s22BUi4GycFwv8H8zoTPl8wSBWDQzc/N5EZVFDClbUt4gxduU5o=",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 1",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -55,7 +220,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "hNC3P0MU2yQD83W0CDsggLphMifV1ro2Z+lmIx4pwSSU0rsfc3HIYq/svoV3TpyQn4ET0I35dludV817Y7o1WrcEqFc9zs6PUAoxF1vOCBw=",
+    "Host" : "djg6fkrWHNfJ5Mjj5IvBdNamwSZWoS2txXi/54IsKcpUVW9Re+Y5T9gUVLJG6xBubfXOFgM7+sEVif4OY8Jlq5f3Z09K56kCE4wwSFRYiCU=",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 2",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -68,7 +233,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "DitWAfQ4JfB4FyKNkooNX4UIcCsge17Moz3gTgxPSGrdkDmaKWzANQJRNWtLuUhs",
+    "Host" : "VT9Wk5s0sGbn8H8ck6S47wmBKLmT2czvMo9OENMQPDz795WBhYuLXvnaHY8qu1ql",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 3",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -81,7 +246,7 @@
     "Format" : 2,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "NRlBq55FLaIdcdFjZ8t1kAu9bxYuY9j6jtf2FVFs4haglL41E7h1Uw96c6AuaE9/",
+    "Host" : "qs++JJrdH5vPx5vIFVJymj3/rb1N6GY3PX+GKsQqVUmiAQsDczeV2K7jseNn8JKF",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 4",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -94,7 +259,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "p4IEYQ2eB+Qsjjuiv1yYWI0RNuMM2FFD97p+KAJKu2Tf+VqafrzpaAJfaaXvnOXHhQx/SLsgvn5YZRkpUiCQBQ==",
+    "Host" : "s/5XihIK70vFktQNyfdioM7JKDKGf9KTLG25Dh8MOQjtK2qSmNzMYLCVjawsUUdS2eBncCmvoz4VoZVp++n2Ow==",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 5",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -107,7 +272,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "OGsJPledezB49ODwDWUFylA91obdlFPDezx6tZNFjOLEdbomtxBgC4C83lJ2PS9C585+HGilB+YaZkXUfe+q6g==",
+    "Host" : "plA2JHvj051IN4HIpkIGWHlNIGQSnMQJRH2xr3Vl1fZpDlq5SUYuE4WzEWdtphjRs9TWD+nPAozCJmsPuddUDA==",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)1",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -120,7 +285,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "0JgG78L67+JVPalRX7qWKi8bB+Bn9bD78baiP819yIWcwGgi156frJoO8J95Eyb0EHi0yjHHrmX3pltE5WdVRA==",
+    "Host" : "w0ZPNtnb6Cx1cwiCMN7vAXKEHYKUMMkbfoMDo8Gb+zfY1ZGhQ5qH12iT6NsnTJAdmBLxi78Ww6dj5ZIU5VBZSg==",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -133,7 +298,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "XO7FBrg9RPfp2jsK8gZfcQ3yyDUjWHPCt91RlwxfByRwOBKUxJ2evu7GavejDOlq",
+    "Host" : "5MhIfj9c2gxSSgk1ZpdoMgZ3DmSiaZE5jHBUoZV7UTmbJlyt3TYSqODTUenzcbM5",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)3",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -146,7 +311,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "SHcaZV+cYy4e4KY2W2aswmEMaUokUwau56KEkNbJXMVSH4uZBR/jUCfshkgs75DW",
+    "Host" : "Hvz4KPI3XbJ7amRS7W4AF6hZN1+YFK8dhlZpO/aNq0dKhAVDWx7QguqC5wsct3tE",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)4",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -159,7 +324,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "WgABpw9Rju0I+plmrCr2tHiP5X7+exeStPLA3DkXbLMvfLquLL/oMEfBXw5jDQ42mcH5VtgV1KR3E9zrvcwWtw==",
+    "Host" : "JqQ138VNG8vqHE92Kz4S+dYhJkr/gUPFzCjwmxMAyP1VrYkyNKN3BJP5OfJlq7HjgHIuI/5pTzOw0wkrBy6Muw==",
     "Name" : "\uD83C\uDF40 [inject] Smart & Tnt Giga-Stories",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -172,7 +337,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "C6ug+ezSFeaMPpkav9Bt3jbWBs7utJUGteMxEnWoR82ESIhmNviaSUEQclefSYH00LJ7nx0+C2fbuB4hS1gSaZoT8wYaKnVh5j2YirEYCEM=",
+    "Host" : "MWVTVOb20DMoYHuXA2SJLLKl7uMKnX+Iq6TqhpkOECafG0TGf9LqrMqvoICrBOFmyvlYBB+RCwew3tOBLaWPb+P2YAuFGpCWRFpmdUHna3M=",
     "Name" : "\uD83C\uDF40 [inject] Sun & Smart Giga-Video",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -184,6 +349,6 @@
   } ],
   "GuiCategories" : true,
   "GuiFlags" : true,
-  "Changelogs" : "<strong>WELCOME to UltimateVPN Family<br>\uD83D\uDE07Thank You For Choosing Us !\uD83D\uDC96<br><br>\uD83D\uDE07Your APP is NOW UPDATED !\uD83D\uDC96<br><strong>===========================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring Admin Unlimited Credits.<br>Click My Messenger Link Below\uD83D\uDC47<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDC47\uD83D\uDC47\uD83D\uDC47You May Call/Text \uD83D\uDC47\uD83D\uDC47\uD83D\uDC47<br>\uD83D\uDD1109773270471/09329461032\uD83D\uDD11<br>===========================<br>-----------------------------------------<br>\uD83D\uDC47UltimateVPN ADMIN\uD83D\uDC47<br>\uD83D\uDC8E\uD83D\uDC49Admin Ayumi<br>\uD83D\uDC8E\uD83D\uDC49Admin Zhienchi<br>\uD83D\uDC8E\uD83D\uDC49Admin Brokoy<br>-----------------------------------------<br><strong>\uD83D\uDC96\uD83D\uDC98Team UltimateVPN™\uD83D\uDC98\uD83D\uDC96<br>\uD83D\uDE07Big Thanks To My Developer<br>\uD83D\uDE07Big Thanks To Sir w0pw0p </strong>",
-  "Version" : 3.003
+  "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07 WELCOME To UltimateVPN \uD83D\uDE07<br></font> <font color=\"#32CD32\">\uD83D\uDE0D - Thanks for Choosing Us! - \uD83D\uDE0D</font><br>============================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring CoOwner/Admin Unli VC<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDD11My GCash#\uD83D\uDC4909773270471\uD83D\uDD11<br>============================<br>CoOwner - Roni Joanne I Santiago<br>CoOwner - Liza Leopoldo Gabayan <br>--------------------------------------------------------<br>\uD83D\uDC8E01 - VPN Admin - Redentor<br>\uD83D\uDC8E02 - VPN Admin - Joughnalyn <br>\uD83D\uDC8E03 - VPN Admin - William<br>\uD83D\uDC8E04 - VPN Admin -  Paulo<br>\uD83D\uDC8E05 - VPN Admin - ShyRa<br>\uD83D\uDC8E06 - VPN Admin - Maylyn<br>\uD83D\uDC8E07 - VPN Admin -  John Ard<br>--------------------------------------------------------<br><strong>Tnx:CoOwner/Admin/Seller</strong><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47BASIC Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Select PREMIUM SERVER FIRST<br>- Use (Sun/Gtm) Torrent Updator 1<br>- Connect/Update 2 latest version<br>- Select your server Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Doon ka lang sa Torrent Server<br>- ViP/Private lang Torrent Server<br>- if PREM ka Uninstall Torrent app<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDC8E Powered By: UltimateVPN \uD83D\uDC8E",
+  "Version" : 3.006
 }
