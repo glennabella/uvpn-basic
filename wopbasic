@@ -6,34 +6,29 @@
     "Name" : "\uD83D\uDC47SUN & GTM Server\uD83D\uDC47"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pre-sgbu.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Prem] Browsing SG-1"
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-nlb1.ultimatevpn.xyz",
+    "Flag" : "nl",
+    "Name" : "[Prem] Amsterdam"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pre-sgb2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Prem] Browsing SG-2"
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-cab1.ultimatevpn.xyz",
+    "Flag" : "ca",
+    "Name" : "[Prem]   CANADA"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pre-sgb3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Prem] Browsing SG-3"
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-deb1.ultimatevpn.xyz",
+    "Flag" : "de",
+    "Name" : "[Prem]  GERMANY"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pre-usb1.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-nyb1.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Prem] Browsing US-1"
+    "Name" : "[Prem]  NEW-YORK"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pre-usb2.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Prem] Browsing US-2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pre-usb3.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Prem] Browsing US-3"
+    "DomainOrIP" : "www.viber.com.edgekey.net.pre-sgb1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Prem] SINGAPORE"
   }, {
     "Category" : 0,
     "DomainOrIP" : "1.2.3.4",
@@ -41,34 +36,29 @@
     "Name" : "\uD83D\uDC47GigaStories Server\uD83D\uDC47"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.pre-sgbu.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Prem] Browsing SG-1"
+    "DomainOrIP" : "api-stream.twitter.com.pre-nlb1.ultimatevpn.xyz",
+    "Flag" : "nl",
+    "Name" : "[Prem] Amsterdam"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.pre-sgb2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Prem] Browsing SG-2"
+    "DomainOrIP" : "api-stream.twitter.com.pre-cab1.ultimatevpn.xyz",
+    "Flag" : "ca",
+    "Name" : "[Prem]   CANADA"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.pre-sgb3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Prem] Browsing SG-3"
+    "DomainOrIP" : "api-stream.twitter.com.pre-deb1.ultimatevpn.xyz",
+    "Flag" : "de",
+    "Name" : "[Prem]  GERMANY"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.pre-usb1.ultimatevpn.xyz",
+    "DomainOrIP" : "api-stream.twitter.com.pre-nyb1.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Prem] Browsing US-1"
+    "Name" : "[Prem]  NEW-YORK"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.pre-usb2.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Prem] Browsing US-2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.pre-usb1.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Prem] Browsing US-3"
+    "DomainOrIP" : "api-stream.twitter.com.pre-sgb1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "[Prem] SINGAPORE"
   }, {
     "Category" : 1,
     "DomainOrIP" : "1.2.3.4",
@@ -78,27 +68,22 @@
     "Category" : 1,
     "DomainOrIP" : "www.viber.com.edgekey.net.vip-tornet.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[ViP] Torrent & Netflix"
+    "Name" : "[ViP] Torrent Netflix"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip-sgb1.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-sgbg1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[ViP] Browsing-SGDO"
+    "Name" : "[ViP] SINGAPORE -1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip-jpb1.ultimatevpn.xyz",
-    "Flag" : "jp",
-    "Name" : "[ViP] Browsing-Japan"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip-sgg1.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-sgbg2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[ViP] GAMING - SGDO"
+    "Name" : "[ViP] SINGAPORE -2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.vip-jpg1.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.vip-jpbg1.ultimatevpn.xyz",
     "Flag" : "jp",
-    "Name" : "[ViP] GAMING -Japan"
+    "Name" : "[ViP] JAPAN VULTR"
   }, {
     "Category" : 1,
     "DomainOrIP" : "1.2.3.4",
@@ -108,27 +93,22 @@
     "Category" : 1,
     "DomainOrIP" : "api-stream.twitter.com.vip-tornet.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[ViP] Torrent & Netflix"
+    "Name" : "[ViP] Torrent Netflix"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "api-stream.twitter.com.vip-sgb1.ultimatevpn.xyz",
+    "DomainOrIP" : "api-stream.twitter.com.vip-sgbg1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[ViP] Browsing-SGDO"
+    "Name" : "[ViP] SINGAPORE -1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "api-stream.twitter.com.vip-jpb1.ultimatevpn.xyz",
-    "Flag" : "jp",
-    "Name" : "[ViP] Browsing-Japan"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "api-stream.twitter.com.vip-sgg1.ultimatevpn.xyz",
+    "DomainOrIP" : "api-stream.twitter.com.vip-sgbg2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[ViP] GAMING - SGDO"
+    "Name" : "[ViP] SINGAPORE -2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "api-stream.twitter.com.vip-jpg1.ultimatevpn.xyz",
+    "DomainOrIP" : "api-stream.twitter.com.vip-jpbg1.ultimatevpn.xyz",
     "Flag" : "jp",
-    "Name" : "[ViP] GAMING -Japan"
+    "Name" : "[ViP] JAPAN VULTR"
   }, {
     "Category" : 2,
     "DomainOrIP" : "1.2.3.4",
@@ -138,27 +118,22 @@
     "Category" : 2,
     "DomainOrIP" : "www.viber.com.edgekey.net.pri-tornet.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Priv] Torrent & Netflix"
+    "Name" : "[Priv] Torrent Netflix"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pri-sgb1.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-sgbg1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Priv] Browsing-SGDO"
+    "Name" : "[Priv]   SINGAPORE"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pri-phb1.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-jpbg1.ultimatevpn.xyz",
+    "Flag" : "jp",
+    "Name" : "[Priv] JAPAN VULTR"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.viber.com.edgekey.net.pri-phbg1.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "[Priv] Browsing-MNL2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pri-sgg1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Priv] GAMING - SGDO"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.pri-phg1.ultimatevpn.xyz",
-    "Flag" : "ph",
-    "Name" : "[Priv] GAMING - MNL2"
+    "Name" : "[Priv]  PHILLIPINES"
   }, {
     "Category" : 2,
     "DomainOrIP" : "1.2.3.4",
@@ -168,34 +143,29 @@
     "Category" : 2,
     "DomainOrIP" : "api-stream.twitter.com.pri-tornet.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Priv] Torrent & Netflix"
+    "Name" : "[Priv] Torrent Netflix"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "api-stream.twitter.com.pri-sgb1.ultimatevpn.xyz",
+    "DomainOrIP" : "api-stream.twitter.com.pri-sgbg1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Priv] Browsing-SGDO"
+    "Name" : "[Priv]   SINGAPORE"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "api-stream.twitter.com.pri-phb1.ultimatevpn.xyz",
+    "DomainOrIP" : "api-stream.twitter.com.pri-jpbg1.ultimatevpn.xyz",
+    "Flag" : "jp",
+    "Name" : "[Priv] JAPAN VULTR"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "api-stream.twitter.com.pri-phbg1.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "[Priv] Browsing-MNL2"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api-stream.twitter.com.pri-sgg1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Priv] GAMING - SGDO"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api-stream.twitter.com.pri-phg1.ultimatevpn.xyz",
-    "Flag" : "ph",
-    "Name" : "[Priv] GAMING - MNL2"
+    "Name" : "[Priv]  PHILLIPINES"
   } ],
   "Payloads" : [ {
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "CgFOh/PNgFF2UQ67DWzTbRwmeTCJ23FcPbdQVeIn7RI=",
-    "Name" : "\uD83D\uDCA5[Direct] ALL NET (NoProxy) TCP",
+    "Host" : "pNKFfiSRE5LkpCbmIeL35A0yXru3EiZZSSFkkxdN29A=",
+    "Name" : "\uD83D\uDCA5[Direct] All Net (NoProxy) TCP",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
@@ -207,10 +177,10 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "Br9W+cn2C/ombpCvuVAbDBYgZJITOglME1sy5dPkEKcO7N+ymdrG4+A7s22BUi4GycFwv8H8zoTPl8wSBWDQzc/N5EZVFDClbUt4gxduU5o=",
+    "Host" : "KdC1NSl2uhQqQnQt68SWzuH7Lb7K7Ivg+qMtlAfqu84qAosSWU+YNYVG5Lm9v/QsURQNk7VFcTDezvxtGQq4lmlxPFLC6PhT22OsF1LcZwY=",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 1",
     "OnlineHost" : true,
-    "Port" : 3128,
+    "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -220,10 +190,10 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "djg6fkrWHNfJ5Mjj5IvBdNamwSZWoS2txXi/54IsKcpUVW9Re+Y5T9gUVLJG6xBubfXOFgM7+sEVif4OY8Jlq5f3Z09K56kCE4wwSFRYiCU=",
+    "Host" : "48a/ev0JEumQ8/zuNurC3aooif9cYwaxFCNNd3bOI0hX2dKor+AK95OJnngV2o05H/Y+KHYR6NInSNJnAu+9QtywYF5VgYOs2zRtehGzMbI=",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 2",
     "OnlineHost" : true,
-    "Port" : 3128,
+    "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -233,10 +203,10 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "VT9Wk5s0sGbn8H8ck6S47wmBKLmT2czvMo9OENMQPDz795WBhYuLXvnaHY8qu1ql",
+    "Host" : "caBE9swiTDX6tit9yGrweiB0HSCP5JagpyLvPhly1BmkwZzXCZ7nT8p8qRMyZfhu",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 3",
     "OnlineHost" : true,
-    "Port" : 3128,
+    "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -246,10 +216,10 @@
     "Format" : 2,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "qs++JJrdH5vPx5vIFVJymj3/rb1N6GY3PX+GKsQqVUmiAQsDczeV2K7jseNn8JKF",
+    "Host" : "X0qA9xlGT0Xortsdo/0yCtlbEZ5mQ+PnKXzwhdqfylV1wX6wrE6zXdxoBKNk/1qs",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 4",
     "OnlineHost" : true,
-    "Port" : 3128,
+    "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -259,10 +229,10 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "s/5XihIK70vFktQNyfdioM7JKDKGf9KTLG25Dh8MOQjtK2qSmNzMYLCVjawsUUdS2eBncCmvoz4VoZVp++n2Ow==",
+    "Host" : "lfNjqPtXC+8fO5f+mpg35H/fz4b4SOJcDBTkyX/5kpXZYKQzc8Sgv1hvLE1hsdcXmuHwIqtXoQAIH7lA+QKyGg==",
     "Name" : "☀ [inject] SUN Tu/Ctc/Flp300 5",
     "OnlineHost" : true,
-    "Port" : 3128,
+    "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
@@ -272,7 +242,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "plA2JHvj051IN4HIpkIGWHlNIGQSnMQJRH2xr3Vl1fZpDlq5SUYuE4WzEWdtphjRs9TWD+nPAozCJmsPuddUDA==",
+    "Host" : "VLbFepGLAADMjJZwPcj6MXCVCpdr28K4X7CsvqI+7dwfNq4DwGXLH332jG3y+2uVQ7fQCUZT+ja8kuDkgC/UWg==",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)1",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -285,7 +255,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "w0ZPNtnb6Cx1cwiCMN7vAXKEHYKUMMkbfoMDo8Gb+zfY1ZGhQ5qH12iT6NsnTJAdmBLxi78Ww6dj5ZIU5VBZSg==",
+    "Host" : "mz7+8B1PIdnTWSCwKBv6VZQRhnD2nBmCNg/XHtHR6MqYcWjoDOF+0R8a8kCAyP0IG13fafEO0WoyYSdzDf+F1w==",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -298,7 +268,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "5MhIfj9c2gxSSgk1ZpdoMgZ3DmSiaZE5jHBUoZV7UTmbJlyt3TYSqODTUenzcbM5",
+    "Host" : "vqH6d0XIrZj+wLUaLaOo+lcLbraAkTT1wWvFkN3/4NDPI4Fg5ygcH7Wx3eccdJLW",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)3",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -311,7 +281,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Hvz4KPI3XbJ7amRS7W4AF6hZN1+YFK8dhlZpO/aNq0dKhAVDWx7QguqC5wsct3tE",
+    "Host" : "d0ulMfvHE5xT0JeUGGUV+HKhEc1Jl98QqzHpD4iMkfA8dn6hCLbjJzdWZS4Q1wYL",
     "Name" : "\uD83C\uDF0F [inject] Globe/TM (YT ByPass)4",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -324,8 +294,8 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "JqQ138VNG8vqHE92Kz4S+dYhJkr/gUPFzCjwmxMAyP1VrYkyNKN3BJP5OfJlq7HjgHIuI/5pTzOw0wkrBy6Muw==",
-    "Name" : "\uD83C\uDF40 [inject] Smart & Tnt Giga-Stories",
+    "Host" : "IetrqH0RZbk3j319P2174j5LNLI7p5QLE0LXb6u3cIxlkY6eXvmAekGJJv54GsSMr74iVPQbcO2UN5Fb0dp9gg==",
+    "Name" : "\uD83C\uDF40 [inject] TNT & SMART GigaStories1",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
@@ -337,8 +307,8 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "MWVTVOb20DMoYHuXA2SJLLKl7uMKnX+Iq6TqhpkOECafG0TGf9LqrMqvoICrBOFmyvlYBB+RCwew3tOBLaWPb+P2YAuFGpCWRFpmdUHna3M=",
-    "Name" : "\uD83C\uDF40 [inject] Sun & Smart Giga-Video",
+    "Host" : "YcrJX0h0B1NLF0KuthRnhG0ZML0xu7vQYv8JXowhoMNirc+yJhMRWBcjbBs+1YerGn/NeBA3Jckdgytd4meArnFCZadDTZ2CCz8+wn/qCb8=",
+    "Name" : "\uD83D\uDCA1 [inject] SMART & TNT GigaStories2",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
@@ -350,5 +320,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07 WELCOME To UltimateVPN \uD83D\uDE07<br></font> <font color=\"#32CD32\">\uD83D\uDE0D - Thanks for Choosing Us! - \uD83D\uDE0D</font><br>============================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring CoOwner/Admin Unli VC<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDD11My GCash#\uD83D\uDC4909773270471\uD83D\uDD11<br>============================<br>CoOwner - Roni Joanne I Santiago<br>CoOwner - Liza Leopoldo Gabayan <br>--------------------------------------------------------<br>\uD83D\uDC8E01 - VPN Admin - Redentor<br>\uD83D\uDC8E02 - VPN Admin - Joughnalyn <br>\uD83D\uDC8E03 - VPN Admin - William<br>\uD83D\uDC8E04 - VPN Admin -  Paulo<br>\uD83D\uDC8E05 - VPN Admin - ShyRa<br>\uD83D\uDC8E06 - VPN Admin - Maylyn<br>\uD83D\uDC8E07 - VPN Admin -  John Ard<br>--------------------------------------------------------<br><strong>Tnx:CoOwner/Admin/Seller</strong><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47BASIC Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Select PREMIUM SERVER FIRST<br>- Use (Sun/Gtm) Torrent Updator 1<br>- Connect/Update 2 latest version<br>- Select your server Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Doon ka lang sa Torrent Server<br>- ViP/Private lang Torrent Server<br>- if PREM ka Uninstall Torrent app<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDC8E Powered By: UltimateVPN \uD83D\uDC8E",
-  "Version" : 3.006
+  "Version" : 3.008
 }
