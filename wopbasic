@@ -1,292 +1,366 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.6pre-nlbtn.ultimatevpn.xyz",
-    "Flag" : "nl",
-    "Name" : "[Server] TU/CTC/FLP -> Torrent"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.6pre-nybg.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.1pre1.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Server] TU/CTC/FLP -> USDO"
+    "Name" : "(TU/CTC/FLP) Torrent & Netflix"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.6pre-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.1pre2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] TU/CTC/FLP -> SGDO"
+    "Name" : "(TU/CTC/FLP)  Browse/Stream"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.6pre-nlbtn.ultimatevpn.xyz",
-    "Flag" : "nl",
-    "Name" : "[Server] GIGA-STORIES -> Torrent"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.6pre-nybg.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.1pre1.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Server] GIGA-STORIES -> USDO"
+    "Name" : "(GiGa-Stories) Torrent & Netflix"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "api-stream.twitter.com.6pre-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.1pre2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-STORIES -> SGDO"
+    "Name" : "(GiGa-Stories)  Browse/Stream"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.iwantv.com.ph.6pre-nlbtn.ultimatevpn.xyz",
-    "Flag" : "nl",
-    "Name" : "[Server] GIGA-VIDEO -> Torrent"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.iwantv.com.ph.6pre-nybg.ultimatevpn.xyz",
+    "DomainOrIP" : "new.mobilelegends.com.1pre1.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Server] GIGA-VIDEO -> USDO"
+    "Name" : "( GAMETIME ) Torrent & Netflix"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.iwantv.com.ph.6pre-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "new.mobilelegends.com.1pre2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-VIDEO -> SGDO"
+    "Name" : "( GAMETIME )  Browse/Stream"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "clients3.google.com.6pre-nlbtn.ultimatevpn.xyz",
-    "Flag" : "nl",
-    "Name" : "[Server] UltimateNetwork -> Torrent"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "clients3.google.com.6pre-nybg.ultimatevpn.xyz",
+    "DomainOrIP" : "img.iwantv.ph.1pre1.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "[Server] UltimateNetwork -> USDO"
+    "Name" : "( GiGA-Video ) Torrent & Netflix"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "clients3.google.com.6pre-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "img.iwantv.ph.1pre2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] UltimateNetwork -> SGDO"
+    "Name" : "( GiGA-Video )  Browse/Stream"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.google.com.1pre1.ultimatevpn.xyz",
+    "Flag" : "us",
+    "Name" : "(GIGA-STUDY) Torrent & Netflix"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.google.com.1pre2.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(GIGA-STUDY)  Browse/Stream"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.7vip-sgbtn.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.2vip1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] TU/CTC/FLP -> Torrent"
+    "Name" : "(TU/CTC/FLP) Browse/Stream"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.7vip-sgbg1.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.2vip2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] TU/CTC/FLP -> SGDO1"
+    "Name" : "(TU/CTC/FLP) GAMING Server"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.7vip-sgbg2.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.2vip1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] TU/CTC/FLP -> SGDO2"
+    "Name" : "(GiGa-Stories) Browse/Stream"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "api-stream.twitter.com.7vip-sgbtn.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.2vip2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-STORIES -> Torrent"
+    "Name" : "(GiGa-Stories) GAMING Server"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "api-stream.twitter.com.7vip-sgbg1.ultimatevpn.xyz",
+    "DomainOrIP" : "new.mobilelegends.com.2vip1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-STORIES -> SGDO1"
+    "Name" : "( GAMETIME ) Browse/Stream"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "api-stream.twitter.com.7vip-sgbg2.ultimatevpn.xyz",
+    "DomainOrIP" : "new.mobilelegends.com.2vip2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-STORIES -> SGDO2"
+    "Name" : "( GAMETIME ) GAMING Server"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.iwantv.com.ph.7vip-sgbtn.ultimatevpn.xyz",
+    "DomainOrIP" : "img.iwantv.ph.2vip1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-VIDEO -> Torrent"
+    "Name" : "( GiGA-Video ) Browse/Stream"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.iwantv.com.ph.7vip-sgbg1.ultimatevpn.xyz",
+    "DomainOrIP" : "img.iwantv.ph.2vip2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-VIDEO -> SGDO1"
+    "Name" : "( GiGA-Video ) GAMING Server"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.iwantv.com.ph.7vip-sgbg2.ultimatevpn.xyz",
+    "DomainOrIP" : "www.google.com.2vip1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-VIDEO -> SGDO2"
+    "Name" : "(GIGA-STUDY) Browse/Stream"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "clients3.google.com.7vip-sgbtn.ultimatevpn.xyz",
+    "DomainOrIP" : "www.google.com.2vip2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] UltimateNetwork -> Torrent"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "clients3.google.com.7vip-sgbg1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Server] UltimateNetwork -> SGDO1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "clients3.google.com.7vip-sgbg2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "[Server] UltimateNetwork -> SGDO2"
+    "Name" : "(GIGA-STUDY) GAMING Server"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.8pri-tornet.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] TU/CTC/FLP -> Torrent"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.8pri-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.3pri1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] TU/CTC/FLP -> SGDO"
+    "Name" : "(TU/CTC/FLP)  SINGAPORE"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.8pri-phbg.ultimatevpn.xyz",
+    "DomainOrIP" : "www.viber.com.edgekey.net.3pri2.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "[Server] TU/CTC/FLP -> PHcloud"
+    "Name" : "(TU/CTC/FLP)  PHiliPPineS"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "api-stream.twitter.com.8pri-tornet.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] GIGA-STORIES -> Torrent"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "api-stream.twitter.com.8pri-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.3pri1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-STORIES -> SGDO"
+    "Name" : "(GiGa-Stories)  SINGAPORE"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "api-stream.twitter.com.8pri-phbg.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.3pri2.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "[Server] GIGA-STORIES -> PHcloud"
+    "Name" : "(GiGa-Stories)  PHiliPPineS"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.iwantv.com.ph.8pri-tornet.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] GIGA-VIDEO -> Torrent"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.iwantv.com.ph.8pri-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "new.mobilelegends.com.3pri1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] GIGA-VIDEO -> SGDO"
+    "Name" : "( GAMETIME )  SINGAPORE"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.iwantv.com.ph.8pri-phbg.ultimatevpn.xyz",
+    "DomainOrIP" : "new.mobilelegends.com.3pri2.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "[Server] GIGA-VIDEO -> PHcloud"
+    "Name" : "( GAMETIME )  PHiliPPineS"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "clients3.google.com.8pri-tornet.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] UltimateNetwork -> Torrent"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "clients3.google.com.8pri-sgbg.ultimatevpn.xyz",
+    "DomainOrIP" : "img.iwantv.ph.3pri1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "[Server] UltimateNetwork -> SGDO"
+    "Name" : "( GiGA-Video )  SINGAPORE"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "clients3.google.com.8pri-phbg.ultimatevpn.xyz",
+    "DomainOrIP" : "img.iwantv.ph.3pri2.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "[Server] UltimateNetwork -> PHcloud"
+    "Name" : "( GiGA-Video )  PHiliPPineS"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.google.com.3pri1.ultimatevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "(GIGA-STUDY)  SINGAPORE"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "www.google.com.3pri2.ultimatevpn.xyz",
+    "Flag" : "ph",
+    "Name" : "(GIGA-STUDY)  PHiliPPineS"
   } ],
   "Payloads" : [ {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "EaoPQXCuHlAklp+FitmaLYok50H41WVToB1i0VCAa2Y=",
+    "Name" : "\uD83D\uDCE1 [Payload] ALL Network TCP",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nCONNECT ANY SERVER\n\nANY NETWORK PROMO\n\nWITH OPEN DATA ACCESS",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "BAu9+IjO/+0XjDfMwaY5UCWiYBLbTaplhULIWfFRGxc0gHomMLU0yda8u44gNpotmKUp3RmiwRDxLmZL+73vkYCZfaideJGvC0OszE/+q1SlKyLekSAv+G9UvbJyPNwQu/Qcq8FqYaMhtrDjLgenrg==",
+    "Name" : "☀ [Payload] SUN  TU and CTC",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(TU/CTC/FLP)\"\n\n(100mb Capping Daily)\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "f4nYCzV+lBLLZxbM0qfYKBCq6ni/GrdKegaba/t+YVEiaGAyKvWHYEUsqjOje5g4aUm6UzBpgPKlkG9MfbucBw==",
+    "Name" : "☀ [Payload] SUN FixedPlan300",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(TU/CTC/FLP)\"\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "ajb0UeGyAS5sRjH1gAOuKkZKx/epZAYpuC8/2KnfrONp5m/ttdmh09KMcgWdxfIZQDIGKu2TrUysR69/HU+bSw==",
+    "Name" : "\uD83D\uDCA1 [Payload] Smart Giga-Stories",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GiGa-Stories)\"\n\n\uD83D\uDC47For SUN/SMART/TNT\uD83D\uDC47\n\nGigaStories50 Valid 3days\nGigaStories99 Valid 7days\nGigaStories299 Valid 30days\n\n\uD83D\uDC49Register via \"GigaLife\" app\n(2GB INTERNET DAILY)\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "EZl3Ky3umyMTTHa6/SMXOPg0Vj8X+aTO0EhXBO9BPFae14R3YZhPg5mCGdGBEVIKiQHKhstTGNZyGecfr/AdhA==",
+    "Name" : "\uD83D\uDCA1 [Payload] Smart  GAMETIME",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GAMETIME)\"\n\n(Tri-Net) mean's Sun/Smart/Tnt\n\n(Tri-Net) - GIGA-GAMES\n2,000mb or 2GB Daily\n\uD83D\uDC49Register Via GigaLife App\n\n(Smart) Gametime (300mb/day)\n(TNT) - ML10 (200mb/day)\n\uD83D\uDC49 Register Via *123#\n\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "JTep7E1S/VgvNP1IqAlbNImeI2UsKcrnXVKtWIXuegOP1TP9F1a+54XOiU3HWH97",
+    "Name" : "\uD83D\uDCA1 [Payload] Smart  GiGa-Video",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GiGA-Video)\"\n\n\uD83D\uDC47For SUN/SMART/TNT\uD83D\uDC47\n\nGigaVideo50 Valid 3days\nGigaVideo99 Valid 7days\nGigaVideo299 Valid 30days\n\n\uD83D\uDC49Register via \"GigaLife\" app\n\uD83D\uDC49(1GB INTERNET DAILY)\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "rEf1QnIbH2Rj0fRnQ9WEtv0XU85wgNQ/4UcmzX8NutR143BzQ7yOA0pqRUps57zd",
+    "Name" : "\uD83D\uDCA1 [Payload] Smart GiGa-STUDY",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GIGA-STUDY)\"\n\n(Tri-Net) mean's Sun/Smart/Tnt\n\n(Tri-Net) - GIGA-STUDY 99\n(Tri-Net) - GIGA-STUDY 299\n\uD83D\uDC461,000mb or 1GB Daily\uD83D\uDC46\n\n\uD83D\uDC49Register Via GigaLife App\nor *123#, 3, 5, 1/2 Subscribe\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "agyNrLUiUuxykJff3ZT1LcSTyCyCWgrWex6CyOZDHl2suCf7by1z2zD6z5SASjLK",
+    "Name" : "\uD83D\uDCA1 [Payload] Smart GiGa-WORK",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(TU/CTC/FLP)\"\n\n(Tri-Net) mean's Sun/Smart/Tnt\n\n(Tri-Net) - GigaWork 50\n(Tri-Net) - GigaWork 99\n(Tri-Net) - GigaWork 299\n\uD83D\uDC461,000mb or 1GB Daily\uD83D\uDC46\n\n\uD83D\uDC49Register Via GigaLife App\nor *123#, 3, 6, 1/2/3 Subscribe\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "V5nWOAVMGchud+0GYjRNzhGfEuXhuFGh5wqLUtk1K5PZHFD9nffAzEFlUEJ8JrWMHx/CvoXAR1m2CYZv+8Hapql/noceEN3mvTwJ8up5Pe4=",
+    "Name" : "\uD83D\uDCA1 [Payload] Smart  Sakto20/30",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(TU/CTC/FLP)\"\n\nSmart (VisMin) Only\n\nSakto20/30 (upto 1.5gb/day)\nRegister via *123#, 5, 4\n\uD83D\uDC49SIM BLOCKING? [YES]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "nddIL8cowTTEux+IuF1X78fknZRO8HlTwAg3i1f4wHyBdNlFVQYVGPvXdUelJzvjPkOA6Z/yaH7ZXJbKqR3BvjAZ2lc0qN/DDTP1gN2Ow+0=",
+    "Name" : "\uD83D\uDCA1 [Payload] Smart  AT10/AT60",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(TU/CTC/FLP)\"\n\nSmart AT10/AT60 Only\n\n(500 MB pataas) Daily\n- Reg via *123#, 5, 9, 1/2\n\uD83D\uDC49SIM BLOCKING? [YES]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "PuFE+LDKi7ckYGXNuag82vxJqXpfvR+W22oYZUgO8WuOLusKrpPXFO6pptGrIv4VBHJKi/XlgcNsWR9z1+MvdQ==",
+    "Name" : "\uD83D\uDCAB  [Payload] TNT  ML10  Promo",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GAMETIME)\"\n\nFOR TNT SIM ONLY\n\nML10 ( 200 MB DAILY )\n- Reg via *123#, 5, 12\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "lx2VY1rbqnxFCO9laKW1T/68NMYpHSF1l8tJCeT2eWRqn+yevayl3E/gRX8hDqgrJlwmm0LtXAP01WPBSYX8sw==",
+    "Name" : "\uD83C\uDF10 [Payload] TM ML10 and FB10",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GIGA-STUDY)\"\n\nTM ML10/FB10, ₱10 3days\n(1gb Consumable in 3days)\n\n⏩OFF Data bago mag Load\nDial *143# for more info & Reg\n\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "CCYqaFvKrXQCQsl2BgaeS7xWx2d2wdT7NnsccPtzDrqP8KuQ4hK46kHBboqhuqH4SEVrY4vTJC0vqsy0xgPvSA==",
+    "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 1",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GIGA-STUDY)\"\n\n\uD83D\uDC47SUPPORTED PROMO's\uD83D\uDC47\n\nGOSAKTO/GOWATCH\nGOSURF/EASYSURF\nHOMESURF199\nSNS/WNP/LNT/LNW\n\nAny Promo me Youtube/Day\n⏩OFF Data bago mag Load\nDial *143# for more info & Reg\n\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 2,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Ev1jJom0ZTFWWiymcw9oCQlWWQ1Fa06GRDb2DKCYq0Bv0oTdC2xzNx6pijQKKSW7DMLlkcY3YzJEO4Rr4gqdpw==",
+    "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 2",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GIGA-STUDY)\"\n\n\uD83D\uDC47SUPPORTED PROMO's\uD83D\uDC47\n\nGOSAKTO/GOWATCH\nGOSURF/EASYSURF\nHOMESURF199\nSNS/WNP/LNT/LNW\n\nAny Promo me Youtube/Day\n⏩OFF Data bago mag Load\nDial *143# for more info & Reg\n\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "UseDefaultProxy" : true
+  }, {
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "zj3t76NBQVUEhYcB0Wtu3lzu+vrqmqtGEVBpUFCYCozSkk8U0jIUThvNsEV8Zy/A/eSzsjfKkW2Js9yaEAszk79B97Cpt4psv9/ZiWycMyk=",
-    "Name" : "☀ [Payload] SUN Tu/Ctc/Flp (Old)",
+    "Host" : "4n7YHcyKwT90ew9FagD/FuQ0wfkf7bnt0Tw3chb9UvTkwbX3JGaUHLkUg44+hzCtcFCNFEXTh1RkTXrTIidOzg==",
+    "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 3",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] TU/CTC/FLP\"\n\n\uD83D\uDC49Note: Para lang eto sa naka\nRegister bago mag (October21)\n\n(USE 1.5GB to 2GB Daily)\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GIGA-STUDY)\"\n\n\uD83D\uDC47SUPPORTED PROMO's\uD83D\uDC47\n\nGOSAKTO/GOWATCH\nGOSURF/EASYSURF\nHOMESURF199\nSNS/WNP/LNT/LNW\n\nAny Promo me Youtube/Day\n⏩OFF Data bago mag Load\nDial *143# for more info & Reg\n\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
     "UseDefaultProxy" : true
   }, {
-    "Format" : 1,
+    "Format" : 5,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "DjUhKonH8YANXciPCkpVSJ/gCjGDQRpr8H+hYTXr4SrtmdBcnbKTU4l4gPkjtMkuJJLCq4xKp4LUUD/ghBJkrCAsROIGeHCQidkmtczqLIA=",
-    "Name" : "☀ [Payload] SUN TU/CTC  (NEW)",
+    "Host" : "4pmP00maYkvnfqxVgy6FVFKCX/epqW3auw9Ub0p+e87oP5oT4qUwXCeHMo+OSRJtMLFK6fazw7PtEKvCCfkhNg==",
+    "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 4",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
     "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] TU/CTC/FLP\"\n\n\uD83D\uDC49Note: Para lang eto sa naka\nRegister simula (October21)\n\n(100mb Capping Daily)\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 1,
-    "ForwardHost" : false,
-    "FullHost" : false,
-    "Host" : "acX9/mMBGtccWscwj7FaTZT9lYodmv/tfAZnzjTcAjd984BiSe/bupCmlmgOiUVne5aPUaKQv6AejZntKcYfhw==",
-    "Name" : "\uD83D\uDCA1 [Payload] Smart (GIGA-STORIES)",
-    "OnlineHost" : false,
-    "Port" : 3128,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] GIGA-STORIES\"\n\n\uD83D\uDC47For SUN/SMART/TNT\uD83D\uDC47\n\nGigaStories50 Valid 3days\nGigaStories99 Valid 7days\nGigaStories299 Valid 30days\n\n\uD83D\uDC49Register via \"GigaLife\" app\n(2GB INTERNET DAILY)\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 1,
-    "ForwardHost" : false,
-    "FullHost" : false,
-    "Host" : "fkvkPRiL2YpO/T6/wu8ByqfMAVvdBVgQlRbezuyg2fF9uTvfCzTShP5WnzQiqL5dwD74oNdPm9WaHwX1PKjTGw==",
-    "Name" : "\uD83D\uDCA1 [Payload] Smart (GIGA-VIDEO)",
-    "OnlineHost" : false,
-    "Port" : 3128,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] GIGA-VIDEO\"\n\n\uD83D\uDC47For SUN/SMART/TNT\uD83D\uDC47\n\nGigaVideo50 Valid 3days\nGigaVideo99 Valid 7days\nGigaVideo299 Valid 30days\n\n\uD83D\uDC49Register via \"GigaLife\" app\n\uD83D\uDC49(1GB INTERNET DAILY)\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 1,
-    "ForwardHost" : false,
-    "FullHost" : false,
-    "Host" : "FRHMe9T1xhBohHnMOJdWg0s8eefKE6FiAN4vxIbts43w/+CVfHs8XaF1AQ5ALZCT",
-    "Name" : "\uD83D\uDCA1 [Payload] Smart (GIGA-STUDY)",
-    "OnlineHost" : false,
-    "Port" : 3128,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] UltimateNetwork\"\n\n\uD83D\uDC47For SUN/SMART/TNT\uD83D\uDC47\n(GIGA-STUDY PROMO)\n\n1:) ₱99, 7days (1gb/day)\n+2Gb Consumable in 7days\n\n2:) ₱299, 30days (1gb/day)\n+4Gb Consumable in 30days\n\n\uD83D\uDC49to Register Dial *123#\uD83D\uDC47\n> 2 > 6 & Choose Promo 1/2\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 1,
-    "ForwardHost" : false,
-    "FullHost" : false,
-    "Host" : "ur69p4FfukycYWnW+o3AVCWtyDWpN2E3k8nE+GMI+hSBxS9mRhowC6WQbBuVXOBLWvXCIxzybtmkxx/74L++2aghDSbenge0tBO1x3o0n0c=",
-    "Name" : "\uD83D\uDCA1 [Payload] Smart (Tri-Net) Promo",
-    "OnlineHost" : false,
-    "Port" : 3128,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] TU/CTC/FLP\"\n\n(Tri-Net) means Sun/Smart/Tnt\n\n(Tri-Net) - FreeGames (2gb/day)\n(Tri-Net) - GigaGames (1gb/day)\n- Reg@\"GigaLife\" app\uD83D\uDC49NoBlock\n\n(Smart) Gametime (300mb/day)\n(TNT) - ML10 (200mb/day)\n- Reg via *123#, 5, 12\uD83D\uDC49NoBlock\n\n(Smart) Sakto20/30 (1.5gb/day)\n- Reg via *123#, 5, 4 \uD83D\uDC49Blocking\n\n(Smart) At10/At60 (500mb up/day)\n- Reg via *123#, 5, 9, 1/2\uD83D\uDC49Blocking\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 1,
-    "ForwardHost" : false,
-    "FullHost" : false,
-    "Host" : "JL+3+ClEMCh7QlJoEE524btUBOzWZBztPBAOkV5nLti58IrRh8H3PiCZfMdxQvDiW+fIlt6gdQTpcmflY+xoNA==",
-    "Name" : "\uD83C\uDF0F [Payload] GLOBE & TM  PROMO 1",
-    "OnlineHost" : false,
-    "Port" : 3128,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] UltimateNetwork\"\n\n\uD83D\uDC47SUPPORTED PROMO's\uD83D\uDC47\n\nTM ML10/FB10, ₱10 3days\n(1gb Consumable in 3days)\n\nGOSAKTO/GOWATCH\nGOSURF/EASYSURF\nHOMESURF199\nSNS/WNP/LNT/LNW\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\nAny Promo me Youtube/Day\n⏩OFF Data bago mag Load\nDial *143# for more info & Reg\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
-    "UseDefaultProxy" : true
-  }, {
-    "Format" : 1,
-    "ForwardHost" : false,
-    "FullHost" : false,
-    "Host" : "iBqXbhuvmHLPsOHBgdiXIkpz55nnCW2SXzZSd6TjL8hRr62GmdwHTgps0Ef9xXk1t3sY7yvROx4rLIEUP1vLUg==",
-    "Name" : "\uD83C\uDF0F [Payload] GLOBE & TM  PROMO 2",
-    "OnlineHost" : false,
-    "Port" : 3128,
-    "Proxy" : "",
-    "ReverseProxy" : false,
-    "ShowText" : true,
-    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE\uD83D\uDC49\"[Server] UltimateNetwork\"\n\n\uD83D\uDC47SUPPORTED PROMO's\uD83D\uDC47\n\nTM ML10/FB10, ₱10 3days\n(1gb Consumable in 3days)\n\nGOSAKTO/GOWATCH\nGOSURF/EASYSURF\nHOMESURF199\nSNS/WNP/LNT/LNW\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\nAny Promo me Youtube/Day\n⏩OFF Data bago mag Load\nDial *143# for more info & Reg\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
+    "Text" : "\uD83D\uDC8E BASAHIN MUNA \uD83D\uDC8E\n\nUSE Server\uD83D\uDC49\"(GIGA-STUDY)\"\n\n\uD83D\uDC47SUPPORTED PROMO's\uD83D\uDC47\n\nGOSAKTO/GOWATCH\nGOSURF/EASYSURF\nHOMESURF199\nSNS/WNP/LNT/LNW\n\nAny Promo me Youtube/Day\n⏩OFF Data bago mag Load\nDial *143# for more info & Reg\n\n\uD83D\uDC49SIM BLOCKING? [NO]✅\n\n\uD83D\uDC46Convert ALL Site Access\uD83D\uDC46",
     "UseDefaultProxy" : true
   } ],
   "GuiCategories" : true,
   "GuiFlags" : true,
-  "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07 WELCOME To UltimateVPN \uD83D\uDE07<br></font> <font color=\"#32CD32\">\uD83D\uDE0D - Thanks for Choosing Us! - \uD83D\uDE0D</font><br>============================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring CoOwner/Admin Unli VC<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDD11My GCash#\uD83D\uDC4909773270471\uD83D\uDD11<br>============================<br>CoOwner - Roni Joanne I Santiago<br>CoOwner - Liza Leopoldo Gabayan <br>--------------------------------------------------------<br>\uD83D\uDC8E01 - VPN Admin - Redentor<br>\uD83D\uDC8E02 - VPN Admin - Joughnalyn <br>\uD83D\uDC8E03 - VPN Admin - William<br>\uD83D\uDC8E04 - VPN Admin -  Paulo<br>\uD83D\uDC8E05 - VPN Admin - ShyRa<br>\uD83D\uDC8E06 - VPN Admin - Maylyn<br>\uD83D\uDC8E07 - VPN Admin -  John Ard<br>--------------------------------------------------------<br><strong>Tnx:CoOwner/Admin/Seller</strong><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47BASIC Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Select PREMIUM SERVER FIRST<br>- Use (Sun/Gtm) Torrent Updator 1<br>- Connect/Update 2 latest version<br>- Select your server Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Doon ka lang sa Torrent Server<br>- ViP/Private lang Torrent Server<br>- if PREM ka Uninstall Torrent app<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDC8E Powered By: UltimateVPN \uD83D\uDC8E",
-  "Version" : 3.016
+  "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07 WELCOME To UltimateVPN \uD83D\uDE07<br></font> <font color=\"#32CD32\">\uD83D\uDE0D - Thanks for Choosing Us! - \uD83D\uDE0D</font><br>============================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring CoOwner/Admin Unli VC<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDD11My GCash#\uD83D\uDC4909773270471\uD83D\uDD11<br>============================<br>\uD83D\uDC8E01 - VPN Admin - Redentor<br>\uD83D\uDC8E02 - VPN Admin - RoniSoyti<br>\uD83D\uDC8E03 - VPN Admin - Joughnalyn<br>\uD83D\uDC8E04 - VPN Admin - Liza<br>\uD83D\uDC8E05 - VPN Admin - ShyRa<br>--------------------------------------------------------<br><strong>Tnx: Admin's & Seller's</strong><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47BASIC Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Select PREMIUM SERVER FIRST<br>- Use (Sun/Gtm) Torrent Updator 1<br>- Connect/Update 2 latest version<br>- Select your server Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Doon ka lang sa Torrent Server<br>- ViP/Private lang Torrent Server<br>- if PREM ka Uninstall Torrent app<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDC8E Powered By: UltimateVPN \uD83D\uDC8E",
+  "Version" : 3.019
 }
