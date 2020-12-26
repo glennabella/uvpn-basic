@@ -1,235 +1,70 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.1pre1.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-us.ultimatevpn.xyz",
     "Flag" : "us",
-    "Name" : "(TU/CTC/FLP) Torrent & Netflix"
+    "Name" : "[Server] Torrent and Netflix"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.1pre2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(TU/CTC/FLP) WebBrowsing -1"
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-ca.ultimatevpn.xyz",
+    "Flag" : "ca",
+    "Name" : "[Server] D.O      (Canada)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.viber.com.edgekey.net.1pre3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(TU/CTC/FLP) WebBrowsing -2"
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-in.ultimatevpn.xyz",
+    "Flag" : "in",
+    "Name" : "[Server] D.O    (Bongalore)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.1pre1.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "(GiGa-Stories) Torrent & Netflix"
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-de.ultimatevpn.xyz",
+    "Flag" : "de",
+    "Name" : "[Server] D.O     (Germany)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.1pre2.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-sg.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(GiGa-Stories) WebBrowsing -1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.1pre3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GiGa-Stories) WebBrowsing -2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "new.mobilelegends.com.1pre1.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "( GAMETIME ) Torrent & Netflix"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "new.mobilelegends.com.1pre2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GAMETIME ) WebBrowsing -1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "new.mobilelegends.com.1pre3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GAMETIME ) WebBrowsing -2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "img.iwantv.ph.1pre1.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "( GiGA-Video ) Torrent & Netflix"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "img.iwantv.ph.1pre2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GiGA-Video ) WebBrowsing -1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "img.iwantv.ph.1pre3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GiGA-Video ) WebBrowsing -2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.google.com.1pre1.ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "(GIGA-STUDY) Torrent & Netflix"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.google.com.1pre2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GIGA-STUDY) WebBrowsing -1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "www.google.com.1pre3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GIGA-STUDY) WebBrowsing -2"
+    "Name" : "[Server] Vultr  (Singapore)"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.2vip1.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(TU/CTC/FLP) WebBrowsing -1"
+    "Name" : "[Server] D.O   (Singapore) 1"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.2vip2.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(TU/CTC/FLP) WebBrowsing -2"
+    "Name" : "[Server] D.O   (Singapore) 2"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.viber.com.edgekey.net.2vip3.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg3.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(TU/CTC/FLP) \uD83C\uDFAE GAMING \uD83C\uDFAE"
+    "Name" : "[Server] Vultr (Singapore) 3"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.2vip1.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg4.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(GiGa-Stories) WebBrowsing -1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.2vip2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GiGa-Stories) WebBrowsing -2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.2vip3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GiGa-Stories) \uD83C\uDFAE GAMING \uD83C\uDFAE"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "new.mobilelegends.com.2vip1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GAMETIME ) WebBrowsing -1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "new.mobilelegends.com.2vip2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GAMETIME ) WebBrowsing -2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "new.mobilelegends.com.2vip3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GAMETIME ) \uD83C\uDFAE GAMING \uD83C\uDFAE"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "img.iwantv.ph.2vip1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GiGA-Video ) WebBrowsing -1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "img.iwantv.ph.2vip2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GiGA-Video ) WebBrowsing -2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "img.iwantv.ph.2vip3.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GiGA-Video ) \uD83C\uDFAE GAMING \uD83C\uDFAE"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.google.com.2vip1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GIGA-STUDY) WebBrowsing -1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.google.com.2vip2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GIGA-STUDY) WebBrowsing -2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "www.google.com.2vip1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GIGA-STUDY) \uD83C\uDFAE GAMING \uD83C\uDFAE"
+    "Name" : "[Server] Vultr (Singapore) 4"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.3pri1.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prv-sg1.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(TU/CTC/FLP) Web Browsing"
+    "Name" : "[Server] D.O   (Singapore) 1"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.3pri2.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prv-sg2.ultimatevpn.xyz",
     "Flag" : "sg",
-    "Name" : "(TU/CTC/FLP) \uD83C\uDFAEGAMING\uD83C\uDFAE"
+    "Name" : "[Server] Vultr (Singapore) 2"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.viber.com.edgekey.net.3pri3.ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prv-ph1.ultimatevpn.xyz",
     "Flag" : "ph",
-    "Name" : "(TU/CTC/FLP)  PHILIPPINES"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.3pri1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GiGa-Stories)  Web Browsing"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.3pri2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GiGa-Stories)  \uD83C\uDFAEGAMING\uD83C\uDFAE"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.3pri3.ultimatevpn.xyz",
-    "Flag" : "ph",
-    "Name" : "(GiGa-Stories)   PHILIPPINES"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "new.mobilelegends.com.3pri1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GAMETIME )  Web Browsing"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "new.mobilelegends.com.3pri2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GAMETIME )  \uD83C\uDFAEGAMING\uD83C\uDFAE"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "new.mobilelegends.com.3pri3.ultimatevpn.xyz",
-    "Flag" : "ph",
-    "Name" : "( GAMETIME )   PHILIPPINES"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "img.iwantv.ph.3pri1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GiGA-Video )  Web Browsing"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "img.iwantv.ph.3pri2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "( GiGA-Video )  \uD83C\uDFAEGAMING\uD83C\uDFAE"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "img.iwantv.ph.3pri3.ultimatevpn.xyz",
-    "Flag" : "ph",
-    "Name" : "( GiGA-Video )   PHILIPPINES"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.google.com.3pri1.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GIGA-STUDY)  Web Browsing"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.google.com.3pri2.ultimatevpn.xyz",
-    "Flag" : "sg",
-    "Name" : "(GIGA-STUDY)  \uD83C\uDFAEGAMING\uD83C\uDFAE"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "www.google.com.3pri3.ultimatevpn.xyz",
-    "Flag" : "ph",
-    "Name" : "(GIGA-STUDY)   PHILIPPINES"
+    "Name" : "[Server] Cloud (Philippines)"
   } ],
   "Payloads" : [ {
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "378BvvnsXk/TCIE8lAATvc1b2gpRAbE+xeZueZzOvtM=",
+    "Host" : "28ZyqsEDAbydmVM+pEQ9pj1UkFU+ov7wsGTdO0VhUTs=",
     "Name" : "\uD83D\uDCE1 [Payload] ALL Network TCP",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -242,7 +77,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "gQwxgoVl1KpVccGZa2TMXxrRm6/Px/CYHsOHFrlVyDNsHrKypyzZ/Dq+tg/UmXZMZPX/En9heOSnVG4VtmghrAnJu6YRgXD1nzM0MlHqVT7Ul/zPKEit4msVMVxTCiiuS6NXbuKz9xHJlx753VeajA==",
+    "Host" : "sFYg5cwiYFzuo9EZGoD7shvllG/LG0CYlpQlcXipxUHUl9NLFe7TEvIAPoZ4VOwO3RK2VKljx67vVrr/atAFWNuOiaLN+XVkxL8J/4HUvq3OWtIKIRmTbBj9NTspA2v4RKmrUJbC2waWi8mHrYzaag==",
     "Name" : "☀ [Payload] SUN  TU and CTC",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -255,7 +90,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "vDtcD+2WAGrffA312EM5f3jh1AarT8yDQc024iKFvvIj7f7tALEMS+QWkBhXZIzhgLKTbouMGhopZXAY6VBdbw==",
+    "Host" : "OcMSNjvT6ObGKzbdwz2a2nudueTi+TUU22IXO9vvBP+QPXWjCBmaGDuS9cWYf/kUlxQOH4yBesyAByyaCPnohQ==",
     "Name" : "☀ [Payload] SUN FixedPlan300",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -268,7 +103,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Q9z3jHpm2aXcuZ9RY9i8gRAfRGuoovn7PWFbBEkd6QIwB5SA/hQ337BJgp/MTPLD/moPEjKqislBj06tRnAWRA==",
+    "Host" : "pqFwTwqlbkeShO47X2k4PsGvFz5+4VxISu6kMsqIEzbiz5yflI3hkXVQkrhG5aSPvNGU4Dj31imdoCx1jH+CzA==",
     "Name" : "\uD83D\uDCA1 [Payload] Smart Giga-Stories",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -281,7 +116,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "lEm/qQUae8HmF8g5B/NsX4xxCWWWm6wvTOdzdWf2aARbwRVdxdeQvWbEPE0WwdBwcbSOsJ2Dl6NIiBEni2lSNA==",
+    "Host" : "bdyLI8jVztCnlTbRSkaqPCuS++AS/AEXk3DZwL2x8tF9mwClZIphkCzkFA1l3cetpPPdp/aWrUN7F0qqnWKoiw==",
     "Name" : "\uD83D\uDCA1 [Payload] Smart  GAMETIME",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -294,7 +129,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "kw0apCC37DboPCwBjqAQlbMjHFlR5zfKEu41H/ikovQwWxMmZvc1bXALfuLGV3pp",
+    "Host" : "V4hb/hossjSHJaiWGbR/J5K8kEql2AcvMmzy3ltXNb9Jp7cKFNRuWlKINW92vDdt",
     "Name" : "\uD83D\uDCA1 [Payload] Smart  GiGa-Video",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -307,7 +142,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "vCB1o3Tlv3+MPKPoE1MjCOxOitfczfd8QNe2S2aBkcYfNckf2hqK4TDpojXJLxx6",
+    "Host" : "DN0icCBB5AmdoD9xUDS1yN9x9iVrGRAwbJp0cEbDWQaPnAAnSwLGhZMhxv/hUW0f",
     "Name" : "\uD83D\uDCA1 [Payload] Smart GiGa-STUDY",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -320,7 +155,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "xStSq6bQAs+1+Lp1prx+NfX9yukFH6VxmWiakEejctsuJUGgtuZKx3qA9O29RLEV",
+    "Host" : "0l3nwwlFMU1OQNs/8KAm+/zO2fDzSjsK6sl9u4NbhsvTtwgNo2VWutQ2dXvVnZuC",
     "Name" : "\uD83D\uDCA1 [Payload] Smart GiGa-WORK",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -333,7 +168,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "o3jTVpA4ba+7vNHaOpv/4Jp6IdCi/UXF6bQXHiJGs2A9tu9SCUyYzYBtXZfcKEk+aPBsjqCzfvp+d5chhTDwQFXkWERa7EkDMF8xcZMag90=",
+    "Host" : "xj2Hb9sCfrK0sXw2LO4RZCFnraKvY8TwyDX+dwnMKSCmgoS+kPOCmYdjHUFv3gYXSv3fNk6xKza8kK7SKaoABKoxwZipBvaBP8qHupbSFX8=",
     "Name" : "\uD83D\uDCA1 [Payload] Smart  Sakto20/30",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -346,7 +181,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "9Snc65YF6Wq91TUoERJ8n0fy4ExwOadKq2G2kJ8iGzt8XE3rXrqO2vOkR8cIdtUwxVVVHLkKjTAxGioYrTwumhZQXMZpQR5FXECFUleDBhg=",
+    "Host" : "wsUnb+tqVvnAJAeZV95/BnOTqTbmvTHAw6XlMy1r264do7+juUScxWsD5BdPaaenV5hf+qimUr/uJ0QJU6Ip5juLpCiaVVuS5NuGtqUB1FI=",
     "Name" : "\uD83D\uDCA1 [Payload] Smart  AT10/AT60",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -359,7 +194,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Bm9fMpyn3RSm1fy+R9wKdl3t65iWkievCn5vKOd0fIO7dNJ6tYIHODq1V+uOVQ3kMWsgjM3MjNE33aNLxXb9wA==",
+    "Host" : "FBacRDAyh4FzeZ/EpU9B8XllTaUawG6zolesY129QAwmOg0KfJZcGbfykUVYRivIqfIVbRLTH5YlZi37bFCPZg==",
     "Name" : "\uD83D\uDCAB  [Payload] TNT  ML10  Promo",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -372,7 +207,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "3a4SwC5zSyacHOZhVRIe+FCO6H1ZCWHkoGoR1hULhluQ/IYLr2xO4plxPyKXrIfbgJeqR6I+oO7PyMY1xSXKig==",
+    "Host" : "NqLLrqZi6Rl/xPedtwJnSYfleGAxm1xyIiCTxv4QFiFQ6VKL8H32tJ1JZytJvR78c7KISSvR559RBWp4CMDM8Q==",
     "Name" : "\uD83C\uDF10 [Payload] TM ML10 and FB10",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -385,7 +220,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "oXAdwCLIXQtllhuI/yVa2rhweKpTk/Hn2iPrxblyP52iS8askNWNSfByu4yhjmHq62Wb1BLevsA13noC97Sonw==",
+    "Host" : "4mpVnu0MGvoNFwDWH5XNZvDdqF3yGM3OEJnl+sH1LBluhdblUiNbooTdh3/VPGthNwLkARQNozaeIuhLrXCSBw==",
     "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 1",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -398,7 +233,7 @@
     "Format" : 2,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Ee1qhtTaiQUvSHiLradWqvBswl9djzoqzHZPMpt2qU48q3IHD8SonMbTZJOvYwirZ9uySdUUKKoR//Lztc1+2w==",
+    "Host" : "6dG5pkpL5xELPb04RWapNHUIK9imLjJ+KNXpEXHdviwvi5WwIhlr5JIQ9J2pk+4O49eIxdZKp2srWLe1Uxr+OQ==",
     "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 2",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -411,7 +246,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "q5Z1Qv449HvDCytqWcegQF6mniC9lkgJS7yvio0X3FSOBupoN5jsiNYs2S4Lx92YcUci5NRsu3WL9CNDoiMrYw==",
+    "Host" : "fXR1gDrJZOYLCsM0jEKZNVX6wi5R0yFFycrwq+sPKyvVqvqLZHCdak/9vPRrwsKfBbH8yGXku6J7xG4zApI22w==",
     "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 3",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -424,7 +259,7 @@
     "Format" : 5,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "30P4R6Lx3ySjNjYwtffe4gBja94RUu6Gps24+24tVizZghIJzVQbg8MXgOmXD/NXC3dTmNIT2wJIPGjPcC6hkQ==",
+    "Host" : "MzGt+7r15QCcjeIKe4TsC5r286GATrtScNz9vDgcSxBcP7AsUnVDM0GxbRjA3EeQms66pVzmOcpRLU7QgrF0VQ==",
     "Name" : "\uD83C\uDF0F [Payload] GTM ANY-PROMO 4",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -436,6 +271,6 @@
   } ],
   "GuiCategories" : true,
   "GuiFlags" : true,
-  "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07 WELCOME To UltimateVPN \uD83D\uDE07<br></font> <font color=\"#32CD32\">\uD83D\uDE0D - Thanks for Choosing Us! - \uD83D\uDE0D</font><br>============================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring CoOwner/Admin Unli VC<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDD11My GCash#\uD83D\uDC4909773270471\uD83D\uDD11<br>============================<br>\uD83D\uDC8E01 - VPN Admin - Redentor<br>\uD83D\uDC8E02 - VPN Admin - RoniSoyti<br>\uD83D\uDC8E03 - VPN Admin - Joughnalyn<br>\uD83D\uDC8E04 - VPN Admin - Liza<br>\uD83D\uDC8E05 - VPN Admin - ShyRa<br>--------------------------------------------------------<br><strong>Tnx: Admin's & Seller's</strong><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47BASIC Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Select PREMIUM SERVER FIRST<br>- Use (Sun/Gtm) Torrent Updator 1<br>- Connect/Update 2 latest version<br>- Select your server Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Doon ka lang sa Torrent Server<br>- ViP/Private lang Torrent Server<br>- if PREM ka Uninstall Torrent app<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br>\uD83D\uDC47Try din ang mga Steps na eto\uD83D\uDC47<br>\uD83D\uDC49 Disconnect muna ang VPN.<br>\uD83D\uDC49 Click \"EXIT button sa VPN.<br>\uD83D\uDC49 Open Ulit VPN try to Connect.<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDC8E Powered By: UltimateVPN \uD83D\uDC8E",
-  "Version" : 3.021
+  "Changelogs" : "<strong>WELCOME to UltimateVPN TEAM<br>\uD83D\uDE07Thank You For Choosing Us !\uD83D\uDC96<br><br>\uD83D\uDE07Your APP is NOW UPDATED !\uD83D\uDC96<br><strong>===========================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring Admin Unlimited Credits.<br>Click My Messenger Link Below\uD83D\uDC47<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDC47\uD83D\uDC47\uD83D\uDC47You May Call/Text \uD83D\uDC47\uD83D\uDC47\uD83D\uDC47<br>\uD83D\uDD1109773270471/09329461032\uD83D\uDD11<br>===========================<br>-----------------------------------------<br>\uD83D\uDC47UltimateVPN ADMIN\uD83D\uDC47<br>\uD83D\uDC8E\uD83D\uDC49Admin Ayumi<br>\uD83D\uDC8E\uD83D\uDC49Admin Zhienchi<br>\uD83D\uDC8E\uD83D\uDC49Admin Brokoy<br>-----------------------------------------<br><strong>\uD83D\uDC96\uD83D\uDC98Team UltimateVPN™\uD83D\uDC98\uD83D\uDC96<br>\uD83D\uDE07Big Thanks To My Developer<br>\uD83D\uDE07Big Thanks To Sir w0pw0p </strong>",
+  "Version" : 3.024
 }
