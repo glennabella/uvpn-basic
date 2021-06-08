@@ -1,131 +1,471 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.net-flix.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmtornet.my-ultimatevpn.com",
     "Flag" : "us",
-    "Name" : "[Server] Torrent Netflix"
+    "Name" : "[Server] GStories Torrent Netflix"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmny1.ph-ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] NEW-YORK  1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmny2.ph-ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] NEW-YORK  2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmny3.ph-ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] NEW-YORK  3"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmin1.ph-ultimatevpn.xyz",
-    "Flag" : "in",
-    "Name" : "[Server] BONGALORE  1"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmin2.ph-ultimatevpn.xyz",
-    "Flag" : "in",
-    "Name" : "[Server] BONGALORE  2"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmin3.ph-ultimatevpn.xyz",
-    "Flag" : "in",
-    "Name" : "[Server] BONGALORE  3"
-  }, {
-    "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg1.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg01.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SINGAPORE  1"
+    "Name" : "[Server] GStories Sgdo 01"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg2.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg02.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SINGAPORE  2"
+    "Name" : "[Server] GStories Sgdo 02"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg3.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg03.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SINGAPORE  3"
+    "Name" : "[Server] GStories Sgdo 03"
   }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.net-flix.ph-ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] Torrent Netflix"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipny1.ph-ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] NEW-YORK  1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipny2.ph-ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] NEW-YORK  2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipin1.ph-ultimatevpn.xyz",
-    "Flag" : "in",
-    "Name" : "[Server] BONGALORE  1"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipin2.ph-ultimatevpn.xyz",
-    "Flag" : "in",
-    "Name" : "[Server] BONGALORE  2"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipjp1.ph-ultimatevpn.xyz",
-    "Flag" : "jp",
-    "Name" : "[Server] JAPAN"
-  }, {
-    "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg1.ph-ultimatevpn.xyz",
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg04.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SINGAPORE  1"
+    "Name" : "[Server] GStories Sgdo 04"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 05"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 06"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg07.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 07"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg08.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 08"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg09.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 09"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmsg10.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 10"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] GGames Torrent Netflix"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 01"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 02"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 03"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg04.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 04"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 05"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 06"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg07.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 07"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg08.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 08"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg09.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 09"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmsg10.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 10"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] GVideo Torrent Netflix"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 01"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 02"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 03"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg04.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 04"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 05"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 06"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg07.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 07"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg08.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 08"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg09.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 09"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "staging.iwant.ph.prmsg10.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 10"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] FLP300 Torrent Netflix"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 01"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 02"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 03"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg04.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 04"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 05"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 06"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg07.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 07"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg08.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 08"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg09.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 09"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmsg10.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 10"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg2.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] GStories Torrent Netflix"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg01.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SINGAPORE  2"
+    "Name" : "[Server] GStories Sgdo 01"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 02"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 03"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg04.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 04"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 05"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vipsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 06"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] GGames Torrent Netflix"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.vipsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 01"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.vipsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 02"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.vipsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 03"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.vipsg04.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 04"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.vipsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 05"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.vipsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 06"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "staging.iwant.ph.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] GVideo Torrent Netflix"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "staging.iwant.ph.vipsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 01"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "staging.iwant.ph.vipsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 02"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "staging.iwant.ph.vipsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 03"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "staging.iwant.ph.vipsg04.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 04"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "staging.iwant.ph.vipsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 05"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "staging.iwant.ph.vipsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 06"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] FLP300 Torrent Netflix"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vipsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 01"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vipsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 02"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vipsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 03"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vipsg04.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 04"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vipsg05.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 05"
+  }, {
+    "Category" : 1,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vipsg06.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 06"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.net-flix.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prmtornet.my-ultimatevpn.com",
     "Flag" : "us",
-    "Name" : "[Server] Torrent Netflix"
+    "Name" : "[Server] GStories Torrent Netflix"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prvny1.ph-ultimatevpn.xyz",
-    "Flag" : "us",
-    "Name" : "[Server] NEW-YORK"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prvin1.ph-ultimatevpn.xyz",
-    "Flag" : "in",
-    "Name" : "[Server] BONGALORE"
-  }, {
-    "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prvsg1.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prvsg01.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SINGAPORE"
+    "Name" : "[Server] GStories Sgdo 01"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.vipjp1.ph-ultimatevpn.xyz",
-    "Flag" : "jp",
-    "Name" : "[Server] JAPAN"
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prvsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 02"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.prvph1.ph-ultimatevpn.xyz",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prvsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GStories Sgdo 03"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prvph01.my-ultimatevpn.com",
     "Flag" : "ph",
-    "Name" : "[Server] PHiLiPPiNES"
+    "Name" : "[Server] GStories Philippines"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] GGames Torrent Netflix"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prvsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 01"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prvsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 02"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prvsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GGames Sgdo 03"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prvph01.my-ultimatevpn.com",
+    "Flag" : "ph",
+    "Name" : "[Server] GGames Philippines"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "staging.iwant.ph.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] GVideo Torrent Netflix"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "staging.iwant.ph.prvsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 01"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "staging.iwant.ph.prvsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 02"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "staging.iwant.ph.prvsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] GVideo Sgdo 03"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "staging.iwant.ph.prvph01.my-ultimatevpn.com",
+    "Flag" : "ph",
+    "Name" : "[Server] GVideo Philippines"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prmtornet.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] FLP300 Torrent Netflix"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prvsg01.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 01"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prvsg02.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 02"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prvsg03.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] FLP300 Sgdo 03"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prvph01.my-ultimatevpn.com",
+    "Flag" : "ph",
+    "Name" : "[Server] FLP300 Philippines"
   } ],
   "Payloads" : [ {
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "hVSU7C4mQowvY9YPoGM4Pa/HT5j93LEFzfW3GAlInB4=",
-    "Name" : "\uD83D\uDCE1 [ DIRECT ] ALL Network TCP",
+    "Host" : "XAveYrdJKP6tDTakWK3KNq3uh8zfd0BrK4jJ0+joL68=",
+    "Name" : "\uD83D\uDCE1 [Direct] AnyNetwork w/DataMB",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
@@ -137,109 +477,148 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "X/F5HPgLGd+/EZVTB4jwsto2JVYehHXlCZZvdgkg/DjAaSmprI6iJ6KSWl916B73lqS2P8RRaOcNnKZGAcC6iA==",
-    "Name" : "\uD83D\uDCA1 [Payload] Smart GigaStories 1",
+    "Host" : "5vkJAzK9UPEUkZE77PQZdKBUCOWMSgJFdWEJK4W49ZJa9lUS/kiUC/w/yfvCJVIoqItf9EICU0RdzpY+ak7DT7NoTViOZ1OoSSx2kapYTjg=",
+    "Name" : "\uD83C\uDF1E [Payload] SUN  FLP300  1",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩USE \"Stories\" Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\nUSE\uD83D\uDC49 [Server] FLP300\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "NrPj0/3fp7R2Dx92ZXL/BMe4tXIXMShRxy9EPmFnyK7kfFMsXKJ7pvwpew1zcOHa",
-    "Name" : "\uD83D\uDCA1 [Payload] Smart GigaStories 2",
+    "Host" : "T87TA+jlJo6RgAlvoo/PGhYFIWNJkV+aR8mBGMexgGqbTL4QrLUt46VIWCk3QCYhjbQgstjYTIumSstGKs3shQ==",
+    "Name" : "\uD83C\uDF1E [Payload] SUN  FLP300  2",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩USE \"Stories\" Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\nUSE\uD83D\uDC49 [Server] FLP300\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Vgy6G68XpyhahDgtN4x7AukAbWjIeP0Aua/zmVWE0XIBF9NLlzZsw1Qhfd+dzFfEY0XPCXsh7B5f6/xEZIFvrQ==",
-    "Name" : "\uD83D\uDCA1 [Payload] Smart Giga-Games",
+    "Host" : "/QQNwFc05BBk9WapU6QQIlsNLmDVgFleQrqWL7/2s1kqNm/j6z0jIZ1+DbW3cA0A72WE8vzzASLHhwkT5JNJWg==",
+    "Name" : "\uD83D\uDCA1 [Payload] STS GigaStories 1",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩USE \"Games\" Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\nUSE\uD83D\uDC49 [Server] GStories\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "m+NuzpXif6FSShlH03IJm3GLX3+V9SLGqvbnEgmvRzymvoJe8ju8Gqo5c9VifMsJcEEqedCrcQNlBl6W5AzZA8ydO61cnH0w7zsxgtNKUJg=",
-    "Name" : "\uD83D\uDCAB [Payload] TNT GigaLife WildRift",
+    "Host" : "urgwuYXWbW6svrHm6eot0yS/P9YqVDwdSPRpJyygN8r7CN4+9PJcmfmwHG46YGa73GLf5lram05FTtptXO1+7p/aikilBupOiZPWrOMnnd0=",
+    "Name" : "\uD83D\uDCA1 [Payload] STS GigaStories 2",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩USE \"Games\" Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\nUSE\uD83D\uDC49 [Server] GStories\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "X+IoLKGT6y9E2IFrAk46v8QzQJs+uFlvM6iufWCHZ6gvMcbD63nlnWxZwAabUX5dYgDFwJAiSxQamd+SLa/csg==",
+    "Host" : "rYHpEiHL2asvoUR/EQMANOMbhdzNAdZTOwX6EfuHpbMnbNkgkKmTMO4wRLR43NImR/o3R8cD2Z6QDorgup++Uw==",
+    "Name" : "\uD83D\uDCA1 [Payload] STS Giga-GAMES",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\nUSE\uD83D\uDC49 [Server] GGames\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "0IcKc6Ux70RO609xcxREkt5sxtenNvkm0xk7Ngzj+T3pdhAXPt0k3xBaP8qVR0KZ",
+    "Name" : "\uD83D\uDCA1 [Payload] STS GIGA-VIDEO",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\nUSE\uD83D\uDC49 [Server] GVideo\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "ghXKnD/Fu2VWlBtdVzB6h2jP2rdjxBUpnrFE//30g2erf2Y0247w0EHQg5R6DJhNAyDTSrPeNNCdNJFG7pl/oB1JN8TVBqNpaqWouq54CM4=",
+    "Name" : "\uD83D\uDCAB [Payload] GigaLife  WildRift",
+    "OnlineHost" : false,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\nUSE\uD83D\uDC49 [Server] GGames\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "yMFc8/BeYc5mlZr+Od8sF7fAvioCRalxUiMw8gN50RJe7guugoK/WODXdEYQhxybnJl8sqO5IanSj7ElrOJQ9g==",
     "Name" : "\uD83C\uDF10 [Payload] TM  FunARAL10",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩USE \"Games\" Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n\uD83D\uDC49 [Server] Kahit Anu\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "6Njim3MkKDgbQD1CbdDRJ8sNSXaQl8CIwwLyya1aURm/knnZMWPNcNYgadOBswaE5IMsLq0pwnkH8Dn+gqK4eg==",
+    "Host" : "DIXo4/YMtErrFQpCJhSVa3xe7382bcjXgw1UYJLM2HWPsFiroBGSPX0guJZBg+zxNU5cIkwl7ChltOAtDJQjSg==",
     "Name" : "\uD83C\uDF10 [Payload] TM  FunRAKET10",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩USE \"Games\" Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n\uD83D\uDC49 [Server] Kahit Anu\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "3rYkSlc7fx89ozd+uDt2VXEBZbRHKQVaL+MIjYGpHUhZEX/qo+yr5HaLmRA2dUBw",
+    "Host" : "YdNyW/MEjEkITVRwH3TmAb7CDW9qt/R/DBmiQ2cSk9/QpdCyZqmi7k1e+6YuqxTX",
     "Name" : "\uD83C\uDF0F [Payload] GlobeTM Promo 1",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩Pwedi kahit anu Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n\uD83D\uDC49 [Server] Kahit Anu\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   }, {
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Uew7sCQYnJJjzDBWgA3BwMs0kuHTCJBADFu3QNQ77NsX7XQwe0Ifo+b3rrSe7MtKOBDXGdegBVWhyAX8JFnDzw==",
+    "Host" : "BTyThzjmqlcfS/ZK/4QaDc5U591vPOyWLRRgqCys3JP7zA1wyCNX0osfi8PfEntQ3dr7Ow6KOq00yMSGvDjDjw==",
     "Name" : "\uD83C\uDF0F [Payload] GlobeTM Promo 2",
     "OnlineHost" : false,
     "Port" : 3128,
     "Proxy" : "",
     "ReverseProxy" : false,
-    "ShowText" : false,
-    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n⏩Pwedi kahit anu Server\n\nClick CONTINUE to Connect\uD83D\uDE07",
+    "ShowText" : true,
+    "Text" : "\uD83D\uDC47PAKIBASA PO\uD83D\uDC47\n\n\uD83D\uDC49 [Server] Kahit Anu\n\nClick CONTINUE to Connect\uD83D\uDE07",
     "UseDefaultProxy" : true
   } ],
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07 WELCOME To UltimateVPN \uD83D\uDE07<br></font> <font color=\"#32CD32\">\uD83D\uDE0D - Thanks for Choosing Us! - \uD83D\uDE0D</font><br>============================<br>\uD83D\uDCA5©Owner Glennford C. Abella\uD83D\uDCA5<br>⏩Hiring CoOwner/Admin Unli VC<br>https://m.me/UltimateVPN.Owner<br>\uD83D\uDD11My GCash#\uD83D\uDC4909773051439\uD83D\uDD11<br>============================<br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47BASIC Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Select PREMIUM SERVER FIRST<br>- Connect VPN and Online Update<br>- or pwedi ka din mag Direct Update kahit wala pan'g VPN account bastat me Extra Data MB ka or me Wifi/HotSpot ka<br>- tapos punta kana Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Dun ka lang sa PREMIUM category<br>- Tapos Select Torrent/Netflix Server<br>- if Gusto mo makagamit All Server<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDE18 Maraming Salamat Po \uD83D\uDE18<br>\uD83D\uDC8E UltimateVPN Team \uD83D\uDC8E",
-  "Version" : 4.11
+  "Version" : 4.21
 }
