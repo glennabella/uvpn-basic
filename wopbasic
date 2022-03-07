@@ -1,102 +1,102 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.010prm-ust.uphvpn.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prm-ust.my-ultimatevpn.com",
     "Flag" : "us",
     "Name" : "[Server] SunFLP300 (Surf & Netflix)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "staging.iwant.ph.010prm-ust.uphvpn.ml",
+    "DomainOrIP" : "staging.iwant.ph.prm-ust.my-ultimatevpn.com",
     "Flag" : "us",
     "Name" : "[Server] GiGaViDEO  (Surf & Netflix)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.010prm-ust.uphvpn.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-ust.my-ultimatevpn.com",
     "Flag" : "us",
     "Name" : "[Server] GigaStories (Surf & Netflix)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "wscdn.ml.youngjoygame.com.010prm-ust.uphvpn.ml",
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prm-ust.my-ultimatevpn.com",
     "Flag" : "us",
     "Name" : "[Server] GigaGames (Surf & Netflix)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.garena.my.010prm-ust.uphvpn.ml",
+    "DomainOrIP" : "www.garena.my.prm-ust.my-ultimatevpn.com",
     "Flag" : "us",
     "Name" : "[Server] C0dWildRift (Surf & Netflix)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.010prm-sg.uphvpn.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] SunFLP300 (Surf & Gaming)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "staging.iwant.ph.010prm-sg.uphvpn.ml",
+    "DomainOrIP" : "staging.iwant.ph.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GiGaViDEO  (Surf & Gaming)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.010prm-sg.uphvpn.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GigaStories (Surf & Gaming)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "wscdn.ml.youngjoygame.com.010prm-sg.uphvpn.ml",
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GigaGames (Surf & Gaming)"
   }, {
     "Category" : 0,
-    "DomainOrIP" : "www.garena.my.010prm-sg.uphvpn.ml",
+    "DomainOrIP" : "www.garena.my.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] C0dWildRift (Surf & Gaming)"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.010vip-sg.uphvpn.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] SunFLP300 (Surf & Gaming)"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "staging.iwant.ph.010vip-sg.uphvpn.ml",
+    "DomainOrIP" : "staging.iwant.ph.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GiGaViDEO  (Surf & Gaming)"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.010vip-sg.uphvpn.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GigaStories (Surf & Gaming)"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "wscdn.ml.youngjoygame.com.010vip-sg.uphvpn.ml",
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GigaGames (Surf & Gaming)"
   }, {
     "Category" : 1,
-    "DomainOrIP" : "www.garena.my.010vip-sg.uphvpn.ml",
+    "DomainOrIP" : "www.garena.my.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] C0dWildRift (Surf & Gaming)"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "e9413.g.akamaiedge.net.010prv-sg.uphvpn.ml",
+    "DomainOrIP" : "e9413.g.akamaiedge.net.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] SunFLP300 (Surf & Gaming)"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "staging.iwant.ph.010prv-sg.uphvpn.ml",
+    "DomainOrIP" : "staging.iwant.ph.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GiGaViDEO  (Surf & Gaming)"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "p16-va.tiktokcdn.com.010prv-sg.uphvpn.ml",
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GigaStories (Surf & Gaming)"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "wscdn.ml.youngjoygame.com.010prv-sg.uphvpn.ml",
+    "DomainOrIP" : "wscdn.ml.youngjoygame.com.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] GigaGames (Surf & Gaming)"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "www.garena.my.010prv-sg.uphvpn.ml",
+    "DomainOrIP" : "www.garena.my.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] C0dWildRift (Surf & Gaming)"
   } ],
@@ -260,5 +260,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07Welcome to UltimatePH VPN\uD83D\uDE07<br></font><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47VPN Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Open Muna Ang VPN Application<br>- Click Updates/Online/ApplyNow<br>- Tapos punta kana Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Dun ka lang sa PREMIUM category<br>- Tapos Select Torrent/Netflix Server<br>- if Gusto mo makagamit All Server<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDE18 Maraming Salamat Po \uD83D\uDE18<br>\uD83D\uDC8E UltimatePH VPN Team \uD83D\uDC8E",
-  "Version" : 4.38
+  "Version" : 4.39
 }
