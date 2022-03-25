@@ -26,6 +26,11 @@
     "Name" : "[Server] C0dWildRift (Surf & Netflix)"
   }, {
     "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-ust.my-ultimatevpn.com",
+    "Flag" : "us",
+    "Name" : "[Server] SURF-SAYA (Surf & Netflix)"
+  }, {
+    "Category" : 0,
     "DomainOrIP" : "e9413.g.akamaiedge.net.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] SunFLP300 (Surf & Gaming)"
@@ -49,6 +54,11 @@
     "DomainOrIP" : "www.garena.my.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] C0dWildRift (Surf & Gaming)"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prm-sg.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] SURF-SAYA (Surf & Gaming)"
   }, {
     "Category" : 1,
     "DomainOrIP" : "e9413.g.akamaiedge.net.vip-sg.my-ultimatevpn.com",
@@ -75,6 +85,11 @@
     "Flag" : "sg",
     "Name" : "[Server] C0dWildRift (Surf & Gaming)"
   }, {
+    "Category" : 1,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] SURF-SAYA (Surf & Gaming)"
+  }, {
     "Category" : 2,
     "DomainOrIP" : "e9413.g.akamaiedge.net.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
@@ -99,12 +114,17 @@
     "DomainOrIP" : "www.garena.my.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
     "Name" : "[Server] C0dWildRift (Surf & Gaming)"
+  }, {
+    "Category" : 2,
+    "DomainOrIP" : "p16-va.tiktokcdn.com.prv-sg.my-ultimatevpn.com",
+    "Flag" : "sg",
+    "Name" : "[Server] SURF-SAYA (Surf & Gaming)"
   } ],
   "Payloads" : [ {
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "ouaI3n0WKOLjex8QhdkWpqGE7SpV7r/bCRF0XzGuNM4=",
+    "Host" : "K/CtpuH7HaLi7OpPcebYTlAoW8HMQccr646GlVZw0p8=",
     "Name" : "\uD83D\uDCE1 [Direct] Wifi & AnyNetwork",
     "OnlineHost" : false,
     "Port" : 3128,
@@ -117,7 +137,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "vsJrzswk8HQMl3NF4X52oV6B0+Dh9GtHMk32OBmHTV0FzT/n7aOquvAmpkiKZuqngzvek3uPbtplaY9zzi5PbGy9GlUPWpm+vgrhEzb6fpQ=",
+    "Host" : "1ljOUG5WgSGLOmEmxLV2eX4cvV/ZccbhxJb5jd4zgX0OEJmDb57B9gZMk3k8hUsjNs9+BRTzgvhTqdhsiAfO6F+wn1rftD6JHVypDhVEtf4=",
     "Name" : "\uD83C\uDF1E [Payload] SUN  FixPlan300",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -130,7 +150,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "malWTvrv52dkNTagxxP4xWBhuqoDw5TyeAll3ZYMHFYK1K/vbWNuYKT+tlDgl4Bg",
+    "Host" : "eOaGCBM41gCNsqoPwgjpq9P05/E72M3bv0bsl2kC3E6npVAuJMyedOb8Vt5GSFAZ",
     "Name" : "\uD83D\uDCA1 [Payload] Unli / GiGaViDEO",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -143,7 +163,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "lkbJglAX4rOFOg5L+wPTf85vKM/IUjPPX7joEj8LpgP5zNOYy7kPyTJHJSA+PC4n/YhxD8OjsIkCAvkh6CysmA==",
+    "Host" : "SBzjyt1kQfnc+riotLWxh50Klemw3ZfiRN3MZsCGUmF4vxbb41Mje8jiGvC5gL47FjuAXinyxZZnosNCSo7lUw==",
     "Name" : "\uD83D\uDCA1 [Payload] Unli / GiGaStories",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -156,7 +176,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "7BK01Ha988cWM9CG97cN1A44+JieOgm3cDvh6vd2BDYW4MMq12VICo/aPkDe49eEQl4e/zngqMuCBFPCsibMVw==",
+    "Host" : "XVAbdkFXDrR+TheELLFAyGdZnybif77gi4WnmolElJci7QGWsaU1X9nr+MrxPEihW6e7r1X2hKlKQfJF5Bjq3w==",
     "Name" : "\uD83D\uDCA1 [Payload] STS GiGaGames",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -169,7 +189,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "alPhkvD3lchF7V7b12iwcpCIk4CoZSv9w22SHiIKG7IeFW3gs/k/Zgnnuz9s2PUqHPKk4WK5p3a8ngf23u7ejYVLY8eE9WdUckc3cCFcA0I=",
+    "Host" : "3k/z7RzfjE/3LrfJhTyeJ5LU7PYd/dzmZAqCLUihshvkTAxW7l3W1sP2t6irh/Or9xAGcwZyyZizQ1HzU8RRn5hN19+rXi4HPmsBrK1AL3g=",
     "Name" : "\uD83D\uDCAB [Payload] STS Cod/WildRift",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -182,7 +202,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "H8KhtF5jo+w/cxmsChUzRBh+2YToF8KJYvroBHvpDpRqrmmBDYkNmtGqWbkw551R9D/TF1qjrrDB+gXZmVuPKw==",
+    "Host" : "fVu5RAE8jM0hKy6o8aVTlV8n3pMbXtIRz2y4g7VH+q2/4oWXko0aN2xCLV4c5h3uZVSjHo1fyCWTAR/1A0u2fA==",
     "Name" : "\uD83D\uDCAB [Payload] TNT  ML10-UNLi",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -195,7 +215,20 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "R8nPLb+9BCJp3hR4/Jd6XFa8YnfwZug+apcGSrBElT4B9eNFnJf3wqbPuO5jH1H3E7/sQkq+o0dNc6gh7bRObg==",
+    "Host" : "Hm4OTURIHRACOvOKwAryNjpB/xotgz/ZSWAaa2lz30DJ+Y+WCgeK9MW1MsKGfsukygz9KOA7YtcKc1SmeoWDww==",
+    "Name" : "\uD83D\uDCAB [Payload] TNT Surf-Saya 199",
+    "OnlineHost" : true,
+    "Port" : 3128,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : true,
+    "FullHost" : false,
+    "Host" : "zDpnKgsLSth+s5xTVG2cmT0mKiUizPpsFSgYb2JQ3wkR6MBDox5t5+JLEZUSdgRFDxAtCbDSkQBPhe4YLgG2Ug==",
     "Name" : "\uD83C\uDF10 [Payload] TM  FunARAL10",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -208,7 +241,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "a2pvhiRW9BX9BMLjj1ZjjBkY0CvsqZifrbnbNVwbAQqAO1GH91adWy+NxgtHzyhl+gk++hdtk8h5120Kht/J5A==",
+    "Host" : "Vidv9RXvbEZE1NizPwvabVz1o9IaGOH6GssurlY8oziG1Fo8YkPZKFofMk13WrbUC3jTcALYS2j00iv6OUFzIQ==",
     "Name" : "\uD83C\uDF10 [Payload] TM  FunRAKET10",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -221,7 +254,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "NrRewWLe847t/SkduhATQEjUjx8c4/NYQm2kQ6S8u3siIawnplrG1qr4PMDxLU98",
+    "Host" : "9jNBG0AQaUhcZmntR1w4c9NPRr4KhgzcFW76Hq4+q9uFoRP+JOc/KAezy23GDv9+",
     "Name" : "\uD83C\uDF10 [Payload] TM  Youtube Promo",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -234,7 +267,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "xz1YZ8H12z9cj4n5EvEdWmN2AOq4oH2pQXpstqogDYx4ZztpEiZLUSaQ5mmQyJKm",
+    "Host" : "3gCwT7FOsD8AHnO/o0/1Ar+KpIslB24gJjz8Q28tCADsgRPq1TjseHEGmFtXvCTH",
     "Name" : "\uD83C\uDF0F [Payload] Globe/TM Promo 1",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -247,7 +280,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "chMEgnM/Cynkfd3Ya7vPm8YrYdgagVUt0krilFbw1GeoeHtKJVHjMfyOJbfPCdd6IzWu7IlJTUZ9+DGYvTxE9A==",
+    "Host" : "USDVvjJFnJqam3RmIWkTI4zABDYU+JntDagBZiztroPoM0PgHj4dssfc3Rrex4bx644cwD2Tm4K0BR8+oKwWHw==",
     "Name" : "\uD83C\uDF0F [Payload] Globe/TM Promo 2",
     "OnlineHost" : true,
     "Port" : 3128,
@@ -260,5 +293,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07Welcome to UltimatePH VPN\uD83D\uDE07<br></font><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47VPN Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Open Muna Ang VPN Application<br>- Click Updates/Online/ApplyNow<br>- Tapos punta kana Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Dun ka lang sa PREMIUM category<br>- Tapos Select Torrent/Netflix Server<br>- if Gusto mo makagamit All Server<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDE18 Maraming Salamat Po \uD83D\uDE18<br>\uD83D\uDC8E UltimatePH VPN Team \uD83D\uDC8E",
-  "Version" : 4.39
+  "Version" : 4.44
 }
