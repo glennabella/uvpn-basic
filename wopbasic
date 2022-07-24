@@ -3,92 +3,92 @@
     "Category" : 0,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prm-in.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] GigaStories (Singapore1)"
+    "Name" : "[Server] GigaStories (DNS Sgdo-1)"
   }, {
     "Category" : 0,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prm-in.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SURF-SAYA (Singapore1)"
+    "Name" : "[Server] SURF-SAYA (DNS Sgdo-1)"
   }, {
     "Category" : 0,
     "DomainOrIP" : "e9413.g.akamaiedge.net.prm-in.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SunFLP300 (Singapore1)"
+    "Name" : "[Server] SunFLP300 (DNS Sgdo-1)"
   }, {
     "Category" : 0,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] GigaStories (Singapore2)"
+    "Name" : "[Server] GigaStories (DNS Sgdo-2)"
   }, {
     "Category" : 0,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SURF-SAYA (Singapore2)"
+    "Name" : "[Server] SURF-SAYA (DNS Sgdo-2)"
   }, {
     "Category" : 0,
     "DomainOrIP" : "e9413.g.akamaiedge.net.prm-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SunFLP300 (Singapore2)"
+    "Name" : "[Server] SunFLP300 (DNS Sgdo-2)"
   }, {
     "Category" : 1,
     "DomainOrIP" : "p16-va.tiktokcdn.com.vip-us.my-ultimatevpn.com",
     "Flag" : "us",
-    "Name" : "[Server] GigaStories (US Netflix)"
+    "Name" : "[Server] GigaStories (DNS Netflix)"
   }, {
     "Category" : 1,
     "DomainOrIP" : "p16-va.tiktokcdn.com.vip-us.my-ultimatevpn.com",
     "Flag" : "us",
-    "Name" : "[Server] SURF-SAYA (US Netflix)"
+    "Name" : "[Server] SURF-SAYA (DNS Netflix)"
   }, {
     "Category" : 1,
     "DomainOrIP" : "e9413.g.akamaiedge.net.vip-us.my-ultimatevpn.com",
     "Flag" : "us",
-    "Name" : "[Server] SunFLP300 (US Netflix)"
+    "Name" : "[Server] SunFLP300 (DNS Netflix)"
   }, {
     "Category" : 1,
     "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] GigaStories (Singapore)"
+    "Name" : "[Server] GigaStories (DNS SGDO)"
   }, {
     "Category" : 1,
     "DomainOrIP" : "p16-va.tiktokcdn.com.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SURF-SAYA (Singapore)"
+    "Name" : "[Server] SURF-SAYA (DNS SGDO)"
   }, {
     "Category" : 1,
     "DomainOrIP" : "e9413.g.akamaiedge.net.vip-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SunFLP300 (Singapore)"
+    "Name" : "[Server] SunFLP300 (DNS SGDO)"
   }, {
     "Category" : 2,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] GigaStories (Singapore)"
+    "Name" : "[Server] GigaStories (DNS SGDO)"
   }, {
     "Category" : 2,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SURF-SAYA (Singapore)"
+    "Name" : "[Server] SURF-SAYA (DNS SGDO)"
   }, {
     "Category" : 2,
     "DomainOrIP" : "e9413.g.akamaiedge.net.prv-sg.my-ultimatevpn.com",
     "Flag" : "sg",
-    "Name" : "[Server] SunFLP300 (Singapore)"
+    "Name" : "[Server] SunFLP300 (DNS SGDO)"
   }, {
     "Category" : 2,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prv-ph1.my-ultimatevpn.com",
     "Flag" : "ph",
-    "Name" : "[Server] GigaStories (Philippines)"
+    "Name" : "[Server] GigaStories (DNS PHIL)"
   }, {
     "Category" : 2,
     "DomainOrIP" : "p16-va.tiktokcdn.com.prv-ph1.my-ultimatevpn.com",
     "Flag" : "ph",
-    "Name" : "[Server] SURF-SAYA (Philippines)"
+    "Name" : "[Server] SURF-SAYA (DNS PHIL)"
   }, {
     "Category" : 2,
     "DomainOrIP" : "e9413.g.akamaiedge.net.prv-ph1.my-ultimatevpn.com",
     "Flag" : "ph",
-    "Name" : "[Server] SunFLP300 (Philippines)"
+    "Name" : "[Server] SunFLP300 (DNS PHIL)"
   } ],
   "Payloads" : [ {
     "Format" : 0,
