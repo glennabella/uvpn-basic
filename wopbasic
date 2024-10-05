@@ -1,16 +1,104 @@
 {
   "Servers" : [ {
     "Category" : 0,
-    "DomainOrIP" : "1.2.3.4",
-    "Flag" : "mr",
+    "DomainOrIP" : "app-va.tiktokv.com.ph1.phnet.site",
+    "Flag" : "ph",
     "Name" : "[PH-Server] GStories/Unli-Tiktok"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "www.viber.com.edgekey.net.ph1.phnet.site",
+    "Flag" : "ph",
+    "Name" : "[PH-Server] SUN Fixed Plan 300"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "play.mobilelegends.com.ph1.phnet.site",
+    "Flag" : "ph",
+    "Name" : "[PH-Server] TM Fun-Aliw"
   } ],
   "Payloads" : [ {
     "Format" : 0,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "7pmYOrBD5llmfcc2ZmoJPAL0IoWTs1JlejMwkMSWWDxXpz2HCi2EcWuGCDMJV8Uw",
+    "Host" : "/J1P/KjH6KfSQo3khqikmeR3Blyn7eEQ0fMFxaHiYoEBrF2aVME982R14sLLhFxv",
     "Name" : "[Payload] GStories/Unli-Tiktok",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "dTZZU4zJLKEZGeAdvlhA4Akaz9UgAFDCQ04Zv1MPRtv6a2Ruyqm319+OJYjligBu",
+    "Name" : "[Payload] SUN Fixed Plan 300",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "5n3IC249/ThaIV6eobO0iIHX+F0q+USL3h4ApE75ad4jL/ubmSMgInnJVEL+Mxwf",
+    "Name" : "[Payload] TM FBML15/BigBente",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "CIVKn8+NQYaSUOEvRlVCvFvpgVPjmwuf9lguMlQtpvdfc0+YPOvbxF9BoZIDwY51+EalJ2wVGUgUa8SOdvlaZA==",
+    "Name" : "[Payload] TM Fun-Aliw Promo",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "1OD4Qu2EgWcABzGAC9xaeYZ9mJNkoNtJzzHyrngn0vMUXrp8KL0If2yis3ZlWrAx",
+    "Name" : "[Payload] Globe/TM Promo 1",
+    "OnlineHost" : false,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 1,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "tqrzoXOsSVhTWtLylcig1WuxmnaQp0mwj4uNL4AaSWeXtJw6v7HBfWibdawnsm9yq3yMt37nefBra4WxdWGmRA==",
+    "Name" : "[Payload] Globe/TM Promo 2",
+    "OnlineHost" : true,
+    "Port" : 8080,
+    "Proxy" : "",
+    "ReverseProxy" : false,
+    "ShowText" : false,
+    "Text" : "",
+    "UseDefaultProxy" : true
+  }, {
+    "Format" : 0,
+    "ForwardHost" : false,
+    "FullHost" : false,
+    "Host" : "Zoy9QdxCPvye+tdNL/xqu7wPDDVgS1+1/bFZlPpj5aj1BblwK6bBvacjjzw8EDlV",
+    "Name" : "[Direct-TCP] Shareable Data/Wifi",
     "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
@@ -22,5 +110,5 @@
   "GuiCategories" : false,
   "GuiFlags" : true,
   "Changelogs" : "<strong><h6><font color=\"#ADFF2F\">\uD83D\uDE07Welcome to UltimatePH VPN\uD83D\uDE07<br></font><br><strong><h6><font color=\"#ADFF2F\">\uD83D\uDC47VPN Troubleshooting Guide\uD83D\uDC47</strong><br><h6><font color=\"#00BFFF\">01: Make Sure UPDATED ang VPN.</font><br>- Open Muna Ang VPN Application<br>- Click Updates/Online/ApplyNow<br>- Tapos punta kana Prem/Vip/Priv<br><h6><font color=\"#00BFFF\">02: Reconnecting / Wating Server.</font><br>- Check year/date/time kung tama<br>- Check network promo bka expire<br>- Check if me (MB) pa na e ByPass<br>- Change Server if di mka Connect<br><h6><font color=\"#00BFFF\">03: SERVER USER limit Reached.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">04: DisConnected  Successfully!.</font><br>- CHANGE SERVER mo lang po<br> (Hanap ka iba kung ayaw nya\uD83D\uDE05)<br>if ayaw padin RESTART PHONE<h6><font color=\"#00BFFF\">05: Authentication Failed Details.</font><br>- Check baka Expire na Acct mo<br>- Check Malaki O Maliit na Letra<br>- Check bka nka space user/pass<br>- kung Reseller ka Pm Your Upline<br>\uD83D\uDC49(BAKA MONTHLY FEE MUNA)<br><h6><font color=\"#00BFFF\">06: TORRENTING Not ALLOWED.</font><br>- Me naka install na Torrent APP<br>(OR MOVIE DOWNLOADER APP)<br>- Dun ka lang sa PREMIUM category<br>- Tapos Select Torrent/Netflix Server<br>- if Gusto mo makagamit All Server<br>(uninstall movie downloader app)<br><h6><font color=\"#00BFFF\">07: CONNECTING Status always.</font><br>- Mahina Sagap Signal ng Phone<br>- Mas Maganda Kung naka 4G ka<br>- TRY AirPlane Mode 30 seconds<br><h6><font color=\"#00BFFF\">08: MAHINA / LAG Connection.</font><br>- Masama Panahon sa Area mo<br>- Maintenance Network sa Area<br>- PeakHours 5pm-10pm mahina<br>\uD83D\uDC46Traffic Data sa Oras nayan\uD83D\uDC46<br>- Try AirPlane Mode 30 seconds<br>- Try mo din mag Change Server<br><h6><font color=\"#00BFFF\">09: Crash Log Error/Cause Error.</font><br>- CLOSE/FORCE STOP VPN APP<br>- ClearCatch/ClearData VPN app<br>- OFF or RESTART YOUR PHONE<br><h6><font color=\"#ADFF2F\">\uD83D\uDE18 Maraming Salamat Po \uD83D\uDE18<br>\uD83D\uDC8E UltimatePH VPN Team \uD83D\uDC8E",
-  "Version" : 4.57
+  "Version" : 4.58
 }
